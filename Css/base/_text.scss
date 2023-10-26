@@ -1,0 +1,62 @@
+h3 {
+    margin: 0;
+    font-size: $med-font-size;
+    font-weight: 500;
+}
+
+h4 {
+    margin: 0;
+    font-size: $med-font-size;
+    font-weight: 500;
+}
+
+h5 {
+    margin: 0;
+    font-size: $mid-font-size;
+    font-weight: 500;
+}
+
+h6 {
+    margin: 0;
+    font-size: $main-font-size;
+    font-weight: 500;
+}
+
+ul,
+li,
+p {
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: $main-text-color;
+}
+
+a:hover,
+a:active {
+    text-decoration: underline;
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: $main-text-color;
+    transition: $quick-transition;
+
+    &:hover {
+        color: $main-text-color;
+        text-decoration: underline;
+    }
+}
+
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: $large-font-size;
+    padding-bottom: 10px;
+    background-color: $main-bg-color;
+    letter-spacing: 5px;
+}

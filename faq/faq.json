@@ -1,0 +1,28 @@
+{
+    "beginner-guide": [
+        {
+            "id":"a1",
+            "question":"我是第一次來，請問我該如何成為會員呢？",
+            "answer":"(待改)請先開啟本公司的主網頁後點選→下載中心→下載客戶基本資料表，填寫完成後傳真至本公司即可。建檔完成後會有一組客戶編號及密碼提供給客戶，作為查詢印刷費及傳檔下單使用。"
+        }
+    ],
+    "account-problem":[
+        {}
+    ],
+    "prepayment-problem":[
+        {
+            "id":"c1",
+            "question":"請問預繳付款是什麼？有什麼樣的優點和優惠呢？",
+            "answer":"(待改)"
+        }
+    ], 
+    "printing-guide":[
+        {}
+    ], 
+    "file-transmission-problem":[
+        {}
+    ], 
+    "other-issues":[
+        {}
+    ]
+}

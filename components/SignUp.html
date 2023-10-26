@@ -1,0 +1,73 @@
+<span class="sign-in-up_close sign-in-up_outer-button">關閉<i class="fa-solid fa-angle-right fa-2xs" style="color: #7a7a7a;"></i></span>
+<span class="sign-in-up_back sign-in-up_outer-button"><i class="fa-solid fa-angle-left fa-2xs" style="color: #7a7a7a;"></i>返回</span>
+<div class="sign-in-up_outer">
+    <div class="sign-in-up_inner">
+        <form class="sign-in-up_form sign-in">
+            <h4>歡迎回來！</h4>
+            <label>
+                <p>客戶編號<span>*</span></p>
+                <input type="text" required>
+            </label>
+            <label>
+                <p>帳號<span>*</span></p>
+                <input type="text" required>
+            </label>
+            <label>
+                <p>密碼<span>*</span></p>
+                <input type="password" required autocomplete="current-password">
+            </label>
+            <a class="sign-in-up_forgot-password">忘記密碼？</a>
+            <button type="submit" class="sign-in-up_submit">登入</button>
+        </form>
+        <div class="sign-in-up_switch-block">
+            <div class="sign-in-up_switch-block_img">
+                <div class="sign-in-up_switch-block_img-text switch-block-up">
+                    <h5>第一次來？</h5>
+                    <p>註冊即可立即享有優惠，歡迎您的加入，現在就開始註冊吧！</p>
+                </div>
+                <div class="sign-in-up_switch-block_img-text switch-block-in">
+                    <h5>已經是會員？</h5>
+                    <p>如果您已經是我們的會員，只需要登入即可。</p>
+                </div>
+                <div class="sign-in-up_switch-block_img_button">
+                    <span class="switch-block-up">註冊</span>
+                    <span class="switch-block-in">登入</span>
+                </div>
+            </div>
+            <form class="sign-in-up_form sign-up" method="POST">
+                <h4>是時候加入我們了！</h4>
+                <label>
+                    <p>會員名稱 / 公司<span>*</span></p>
+                    <input type="text" required>
+                </label>
+                <label>
+                    <p>E-mail<span>*</span></p>
+                    <input type="email" required>
+                </label>
+                <label>
+                    <p>密碼<span>*</span></p>
+                    <input type="password" required autocomplete="current-password">
+                </label>
+
+                <!-- <div class="g-recaptcha" data-sitekey="6LfdycknAAAAAJQsbQixva2_y-MSQdmCLTnPZtvA" data-expired-callback="expired"
+                data-error-callback="error">></div> -->
+                <button type="submit" class="sign-in-up_submit">註冊</button>
+            </form>
+        </div>
+        <form class="sign-in-up_form sign-in-up_forget slide-out-left">
+            <h4>忘記密碼？</h4>
+            <p>在下面輸入您的E-mail，我們將發送重置密碼的連結給您。</p>
+            <label>
+                <p>E-mail<span>*</span></p>
+                <input type="text" required>
+            </label>
+            <button type="submit" class="sign-in-up_submit">發送重置連結</button>
+        </form>
+    </div>
+</div>
+<!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+    function onSubmit(token) {
+        document.getElementById(".g-recaptcha").submit();
+    }
+</script> -->

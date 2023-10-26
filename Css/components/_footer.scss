@@ -1,0 +1,147 @@
+.footer {
+    flex-wrap: wrap;
+    background-color: $dark-bg-color;
+    color: $dark-bg-text-color;
+    width: 100%;
+
+    &_inner {
+        height: 100%;
+        padding: 50px 0;
+        display: flex;
+        justify-content: space-around;
+        text-align: start;
+        border-bottom: 1px $main-text-color solid;
+    }
+
+    .left-foot {
+        width: 45%;
+        padding: 15px 0;
+    }
+
+    .right-foot {
+        width: 55%;
+        //border-left: solid 1px #ccc;
+        display: flex;
+        padding: 15px 0;
+    }
+
+    &_section {
+        a {
+            color: $dark-bg-sub-text-color;
+        }
+
+        .company {
+            &_information {
+                display: flex;
+                padding: 30px 0 0 0;
+            }
+
+            &_location {
+                min-width: 161.2px;
+                margin-right: 30px;
+
+                &_detail {
+                    font-size: $main-font-size;
+                    color: $dark-bg-sub-text-color;
+                    margin-top: 2px;
+                    i{
+                        padding-right: 10px;
+                    }
+                }
+            }
+        }
+
+        .information {
+            width: 25%;
+            text-align: left;
+
+            a {
+                color: $dark-bg-sub-text-color;
+            }
+
+            .fa-2x {
+                font-size: 35px;
+            }
+
+
+            &_title{
+                color: $dark-bg-text-color;
+            }
+
+            &_list {
+                padding: 20px 0 0 0;
+            }
+
+            &_item {
+                font-size: $main-font-size;
+                line-height: 24px;
+                padding: 10px 0 0 0;
+
+                i {
+                    margin: 0;
+                    color: $dark-bg-text-color;
+
+                    .fa-2x {
+                        font-size: 26pt;
+                        margin-top: 5px;
+                    }
+                }
+
+            }
+
+            &:last-child {
+                .information_list {
+                    display: flex;
+
+                    .information_item {
+                        // a {
+                        //     .fa-line {
+                        //         color: #18c633;
+                        //     }
+
+                        //     .fa-facebook {
+                        //         color: #2f6ee5;
+                        //     }
+                        // }
+
+                        &:first-child {
+                            margin-right: 10px;
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+
+    .bottommost_footer {
+        width: 100%;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+
+        &_inner {
+            justify-content: space-between;
+        }
+
+        &_copyright {
+            font-size: $main-font-size;
+            color: $dark-bg-sub-text-color;
+        }
+
+        &_terms {
+            display: flex;
+            justify-content: space-around;
+
+            &-item {
+                margin-left: 10px;
+
+                a {
+                    color: $dark-bg-sub-text-color;
+                }
+            }
+        }
+
+    }
+}

@@ -1,0 +1,82 @@
+@import url("//fonts.googleapis.com/earlyaccess/notosanstc.css");
+
+* {
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #45464c;
+    letter-spacing: 1px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    color: $main-text-color;
+    overflow-x: auto;
+}
+
+button {
+    border: 0px;
+    background-color: transparent;
+    text-align: center;
+}
+
+.inner {
+    min-width: $inner-width;
+    max-width: $inner-width;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hide {
+    display: none !important;
+}
+
+.desktop {
+    display: inline;
+}
+
+.mobile {
+    display: none !important;
+}
+
+.flex {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.side-category {
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    position: sticky;
+    top: 146px;
+
+    li {
+
+        &:first-child {
+            font-weight: 600;
+            border-bottom: 1px $other-color solid;
+            padding: 0 0 10px 0;
+        }
+
+        &:not(:first-child) {
+            color: $sub-main-text-color;
+            cursor: pointer;
+        }
+
+    }
+
+    .current {
+        color: $main-color !important;
+        font-weight: 600;
+    }
+}
+
+.active{
+    display: block !important;
+}
+

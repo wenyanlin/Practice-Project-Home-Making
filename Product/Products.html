@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>載入中-家裡蹲創意印刷</title>
+    <link rel="icon" href="/Image/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="/Image/favicon.ico" type="image/x-icon" />
+    <link rel="bookmark" href="/Image/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" type="text/css" href="/Css/all.css">
+</head>
+
+<body>
+    <section id="loading"></section>
+    <header id="header"></header>
+    <div class="main" id="product">
+        <!-- <div class="navigationMap"></div> -->
+        <div class="title-banner"></div>
+        <div class="location" v-if="productData">
+            <div class="inner"><a href="/">首頁</a><span>/</span><a
+                    href="/ProductCategory.html">產品總覽</a><span>/</span><span
+                    class="targetLocation">{{productData.name}}</span>
+            </div>
+        </div>
+        <div class="product">
+            <div class="product_inner inner">
+                <intro :product_data="productData"></intro>
+            </div>
+            <descr :product_data="productData" :product_path="productPath"></descr>
+        </div>
+        <!-- *** -->
+        <!-- <div class="modal-window" id="modal-window">
+            <span class="modal-window_close" id="modal-window_close">&#10006;</span>
+            <div class="modal-window_modal">
+                <div class="modal-window_modal_content">
+                    hi
+                </div>
+
+            </div>
+        </div> -->
+        <div class="recommand">
+            <div class="recommand_inner inner">
+                <div class="recommand_title title">你可能也有興趣...</div>
+                <div class="recommand_content">
+                    <div class="recommand_content_list">
+                        <a href="" class="recommand_content_item">
+                            <div class="recommand_content_item_image">
+                                <img src="https://fakeimg.pl/292x200/">
+                            </div>
+                            <div class="recommand_content_item_content">
+                                <h4 class="recommand_content_item_content-title">卡片拼模</h4>
+                                <p class="recommand_content_item_content-content">
+                                    適用於廣告卡、名信片、寫真喜帖、邀請卡、賀卡、獎狀以及各種A4、16K以下卡片印刷。</p>
+                            </div>
+                        </a>
+                        <a href="" class="recommand_content_item">
+                            <div class="recommand_content_item_image">
+                                <img src="https://fakeimg.pl/292x200/">
+                            </div>
+                            <div class="recommand_content_item_content">
+                                <h4 class="recommand_content_item_content-title">對摺名片</h4>
+                                <p class="recommand_content_item_content-content">可選直式對摺，尺寸規格2M大。</p>
+                            </div>
+                        </a>
+                        <a href="" class="recommand_content_item">
+                            <div class="recommand_content_item_image">
+                                <img src="https://fakeimg.pl/292x200/">
+                            </div>
+                            <div class="recommand_content_item_content">
+                                <h4 class="recommand_content_item_content-title">700PVC卡</h4>
+                                <p class="recommand_content_item_content-content">
+                                    適用於會員卡、貴賓卡等各種會員卡。可製作接觸式與非接觸式卡片，例如磁條、晶片卡、出勤磁卡等等的應用方式。</p>
+                            </div>
+                        </a>
+                        <a href="" class="recommand_content_item">
+                            <div class="recommand_content_item_image">
+                                <img src="https://fakeimg.pl/292x200/">
+                            </div>
+                            <div class="recommand_content_item_content">
+                                <h4 class="recommand_content_item_content-title">造型卡片</h4>
+                                <p class="recommand_content_item_content-content">適用於集點卡、產品說明卡、保證卡、小廣告牌等。</p>
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <section id="back-to-top"></section>
+    <footer id="footer"></footer>
+
+    <template id="product-template">
+        <div class="main">
+            <div class="title-banner"></div>
+            <div class="location">
+                <div class="inner"><a href="/">首頁</a><span>/</span><a
+                        href="/ProductCategory.html">產品總覽</a><span>/</span><span
+                        class="targetLocation">{{product_data.name}}</span>
+                </div>
+            </div>
+            <div class="product" id="product">
+                <div class="product_inner inner">
+                    <intro :product_data="productData"></intro>
+                </div>
+                <descr :product_data="productData" :product_path="productPath"></descr>
+            </div>
+            <div class="recommand">
+                <div class="recommand_inner inner">
+                    <div class="recommand_title title">你可能也有興趣...</div>
+                    <div class="recommand_content">
+                        <div class="recommand_content_list">
+                            <a href="" class="recommand_content_item">
+                                <div class="recommand_content_item_image">
+                                    <img src="https://fakeimg.pl/292x200/">
+                                </div>
+                                <div class="recommand_content_item_content">
+                                    <h4 class="recommand_content_item_content-title">卡片拼模</h4>
+                                    <p class="recommand_content_item_content-content">
+                                        適用於廣告卡、名信片、寫真喜帖、邀請卡、賀卡、獎狀以及各種A4、16K以下卡片印刷。</p>
+                                </div>
+                            </a>
+                            <a href="" class="recommand_content_item">
+                                <div class="recommand_content_item_image">
+                                    <img src="https://fakeimg.pl/292x200/">
+                                </div>
+                                <div class="recommand_content_item_content">
+                                    <h4 class="recommand_content_item_content-title">對摺名片</h4>
+                                    <p class="recommand_content_item_content-content">可選直式對摺，尺寸規格2M大。</p>
+                                </div>
+                            </a>
+                            <a href="" class="recommand_content_item">
+                                <div class="recommand_content_item_image">
+                                    <img src="https://fakeimg.pl/292x200/">
+                                </div>
+                                <div class="recommand_content_item_content">
+                                    <h4 class="recommand_content_item_content-title">700PVC卡</h4>
+                                    <p class="recommand_content_item_content-content">
+                                        適用於會員卡、貴賓卡等各種會員卡。可製作接觸式與非接觸式卡片，例如磁條、晶片卡、出勤磁卡等等的應用方式。</p>
+                                </div>
+                            </a>
+                            <a href="" class="recommand_content_item">
+                                <div class="recommand_content_item_image">
+                                    <img src="https://fakeimg.pl/292x200/">
+                                </div>
+                                <div class="recommand_content_item_content">
+                                    <h4 class="recommand_content_item_content-title">造型卡片</h4>
+                                    <p class="recommand_content_item_content-content">適用於集點卡、產品說明卡、保證卡、小廣告牌等。</p>
+                                </div>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </template>
+    <template id="product_intro-template">
+        <div class="product_intro" v-if="product_data">
+            <div class="product_intro_img">
+                <img :src="getImagePath(currentImageIndex)" :alt="product_data.name"
+                    class="product_intro_img_item product_intro_img_item-current current">
+                <img v-for="(image, index) in product_data.image" :src="getImagePath(index)" :alt="product_data.name"
+                    class="product_intro_img_item product_intro_img_item-thumbnail" @click="switchImage(index)">
+            </div>
+            <div class="product_intro_content">
+                <div class="product_intro_content_subTitle">{{product_data.category}}</div>
+                <div class="product_intro_content_title">{{product_data.name}}</div>
+                <div class="product_intro_content_description">
+                    {{product_data.introduction}}</div>
+                <div class="product_intro_content_button">
+                    <button class="button product_intro_content_button-ordering" @click="openOrderingPage">線上下單</button>
+                    <button class="button product_intro_content_button-download"
+                        @click="openDownloadPage">樣本檔下載</button>
+                </div>
+                <div class="product_intro_content_deadline deadline">
+                    <table class="deadline_table">
+                        <thead class="deadline_table_title">
+                            <tr>
+                                <th>開版時間</th>
+                                <th>截稿時間</th>
+                                <th>出貨時間</th>
+                                <th>其它備註</th>
+                            </tr>
+                        </thead>
+                        <tbody class="deadline_table_content">
+                            <tr class="deadline_table_content_list">
+                                <td class="deadline_table_content_list-item">{{product_data.releaseDate}}</td>
+                                <td class="deadline_table_content_list-item">{{product_data.submission}}</td>
+                                <td class="deadline_table_content_list-item">{{product_data.shipping.time}}
+                                    <div class="tooltip_box">
+                                        <i class="fa-solid fa-circle-question fa-sm" style="color: #999999;"></i>
+                                        <div class="tooltip_content">
+                                            {{product_data.shipping.note}}
+                                        </div>
+                                    </div>
+                                </td>
+                                <td class="deadline_table_content_list-item"><a
+                                        href="/faq.html?category=printing-guide&theme=submission-and-delivery-deadlines#faq">截稿及交件說明</a><br>
+                                    <a
+                                        href="/faq.html?category=printing-guide&theme=submission-and-delivery-deadlines#faq">指定後加工說明</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+        </div>
+    </template>
+
+    <template id="product_description-template">
+        <div class="product_description" v-if="product_data&&product_path">
+            <div class="product_description_inner inner">
+                <div class="product_description_navbar">
+                    <ul class="product_description_navbar_list">
+                        <li :class="{
+                            product_description_navbar_list_item: true,
+                            current: 0 === currentButtonIndex
+                        }" @click="loadHTMLContent(product_data.introButton[0].id,0)">
+                            {{product_data.introButton[0].name}}
+                        </li>
+                        <li :class="{
+                            product_description_navbar_list_item: true,
+                            current: index === currentButtonIndex
+                        }" v-for="(button, index) in product_data.introButton" v-if="index > 0"
+                            @click="loadHTMLContent(button.id,index)">{{button.name}}</li>
+                    </ul>
+                    <div class="appendScript"></div>
+                </div>
+                <ul class="product_description_content">
+                </ul>
+            </div>
+        </div>
+    </template>
+    <!-- jquery -->
+    <script type="text/javascript" src="/libs/jquery-3.7.0.min.js" defer></script>
+    <!-- fontawesome -->
+    <script src="https://kit.fontawesome.com/b9f8451588.js" crossorigin="anonymous" defer></script>
+    <!-- bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"
+        defer></script>
+    <!-- vue.js -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js" defer></script>
+    <!-- header.js -->
+    <script type="text/javascript" src="/Js/components/header.js" defer></script>
+    <!-- Product.js -->
+    <script type="text/javascript" src="Products.js" defer></script>
+    <script type="text/javascript" src="dyProducts.js" defer></script>
+</body>
+
+</html>

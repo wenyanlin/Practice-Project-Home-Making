@@ -1,0 +1,38 @@
+<div class="faq_question_inner" id="file-transfer-master">
+    <div class="faq_question_title title download_title">傳檔大師</div>
+    <div class="download_block">
+        <div class="download_block_content">
+            <button type="button" class="download-button getFile"
+                data-url="/Download/file-transfer-master/OrderManager_Setup-4.2.24.0.msi" data-type="msi"
+                data-name="OrderManager_Setup-4.2.24.0">
+                <div>
+                    <svg viewBox="0 0 24 24"></svg>
+                </div>
+            </button>
+            <p>Version: 4.2.24.0<br>size: 7.60MB</p>
+        </div>
+    </div>
+    <div class="faq_question_content">
+        <div class="faq_question_content_category">
+            <ul class="side-category">
+                <li>教學分類</li>
+                <li data-theme="installation-tutorial">安裝教學</li>
+                <li data-theme="order-tutorial">下單教學</li>
+                <li data-theme="remove-tutorial">移除舊版傳檔大師</li>
+            </ul>
+        </div>
+        <div class="faq_question_list faq_question_content_list
+        download_content_list" id="faq_question_list"></div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+<script src="/Js/components/ajax-download-file.js"></script>
+<script type="module">
+    import { downloadButton } from "/Js/components/downloadButton.js";
+    import { clickSubcategoryButton } from "/Js/faqSubcategory.js";
+    const fullUrl = window.location.href;
+    const urlWithoutQuery = fullUrl.split('?')[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    clickSubcategoryButton('download', urlWithoutQuery, 'file-transfer-master');
+    downloadButton();
+</script>

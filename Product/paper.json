@@ -1,0 +1,4405 @@
+[
+  {
+    "id": "slJuh",
+    "name": "316不銹鋼",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "slJuh",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "bp74c",
+    "name": "Gildan棉質T恤",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "bp74c",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "ruuyT",
+    "name": "PC",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "ruuyT",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "gVOeO",
+        "variant_name": "透明",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "2I9dz",
+    "name": "PET透明貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "2I9dz",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "50p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "85P5z",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "50p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "2BjvL",
+    "name": "PP",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "2BjvL",
+        "variant_name": "透明",
+        "quality": [
+          {
+            "weight": "0.18mm",
+            "thickness": "18"
+          },
+          {
+            "weight": "0.20mm",
+            "thickness": "20"
+          },
+          {
+            "weight": "0.25mm",
+            "thickness": "25"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "2BjvM",
+        "variant_name": "白色",
+        "quality": [
+          {
+            "weight": "0.18mm",
+            "thickness": "18"
+          },
+          {
+            "weight": "0.20mm",
+            "thickness": "20"
+          },
+          {
+            "weight": "0.25mm",
+            "thickness": "25"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "0RKfC",
+    "name": "PP瓦楞板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "0RKfC",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "3mm",
+            "thickness": ""
+          },
+          {
+            "weight": "5mm",
+            "thickness": ""
+          },
+          {
+            "weight": "10mm",
+            "thickness": ""
+          },
+          {
+            "weight": "16mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "aWA4S",
+    "name": "PS板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "aWA4S",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "rmYDC",
+    "name": "PVC砂面雷射貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "rmYDC",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "50p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Dv2rk",
+    "name": "PVC素面雷射貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Dv2rk",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "50p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "qIq4Z",
+    "name": "瑞典一級卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "印刷表面略帶光澤，色彩亮麗，是坊間最常使用的高級印刷紙，簡稱「一級卡」。",
+    "variants": [
+      {
+        "id": "qIq4Z",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          },
+          {
+            "weight": "230p",
+            "thickness": ""
+          },
+          {
+            "weight": "250p",
+            "thickness": ""
+          },
+          {
+            "weight": "260p",
+            "thickness": "29"
+          },
+          {
+            "weight": "300p",
+            "thickness": "34"
+          },
+          {
+            "weight": "350p",
+            "thickness": "42"
+          }
+        ],
+        "introduction": ""
+      },
+      {
+        "id": "pz9CN",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "29"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "poVfg",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "29"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "hf113",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "29"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "48yOD",
+        "variant_name": "單面局部上光",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "含表面上光紙種"
+      },
+      {
+        "id": "En6Hh",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "含表面上光紙種"
+      },
+      {
+        "id": "hjlIW",
+        "variant_name": "雙面局部上光",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "含表面上光紙種"
+      },
+      {
+        "id": "EjgFa",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "含表面上光紙種"
+      }
+    ]
+  },
+  {
+    "id": "qIq4A",
+    "name": "韓國一級卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "",
+    "variants": [
+      {
+        "id": "qIq4A",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "nSbvR",
+    "name": "中空板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "nSbvR",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "4mm",
+            "thickness": ""
+          },
+          {
+            "weight": "6mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "MZEp5",
+    "name": "亮藍慧星紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "MZEp5",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "GnscU",
+    "name": "亮銀箔貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "GnscU",
+        "variant_name": "白墨",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Cryxl",
+    "name": "卡紙類",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Cryxl",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p至340p以內",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "aCzji",
+    "name": "厚卡類",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "aCzji",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "350p至500p以內",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "KMelY",
+    "name": "合成卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "KMelY",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "220p",
+            "thickness": "22"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          },
+          {
+            "weight": "500p",
+            "thickness": "50"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "mVSV4",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "350p",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "uxWG5",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "350p",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "kwRi6",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          },
+          {
+            "weight": "500p",
+            "thickness": "50"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "JFng3",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "450p",
+            "thickness": "45"
+          },
+          {
+            "weight": "500p",
+            "thickness": "50"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "a7XmW",
+    "name": "合成板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "a7XmW",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "5mm",
+            "thickness": ""
+          },
+          {
+            "weight": "10mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "It51w",
+    "name": "合成貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "It51w",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "w1dGw",
+    "name": "咖啡卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "w1dGw",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "pFPGS",
+    "name": "咖啡色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "pFPGS",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "2q1Eo",
+    "name": "單銅T",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "2q1Eo",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "31條",
+            "thickness": "31"
+          },
+          {
+            "weight": "35條",
+            "thickness": "35"
+          },
+          {
+            "weight": "41條",
+            "thickness": "41"
+          },
+          {
+            "weight": "46條",
+            "thickness": "46"
+          },
+          {
+            "weight": "51條",
+            "thickness": "51"
+          },
+          {
+            "weight": "56條",
+            "thickness": "56"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "7Zz7c",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "41條",
+            "thickness": ""
+          },
+          {
+            "weight": "51條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "yZwXs",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "41條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "MYMXd",
+        "variant_name": "淋膜",
+        "quality": [
+          {
+            "weight": "51條",
+            "thickness": ""
+          },
+          {
+            "weight": "56條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Ak2aM",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "41條",
+            "thickness": ""
+          },
+          {
+            "weight": "51條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "7oNpT",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "41條",
+            "thickness": ""
+          },
+          {
+            "weight": "51條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "4lVlR",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "41條",
+            "thickness": ""
+          },
+          {
+            "weight": "51條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "O3Bhg",
+    "name": "單面鏡銅",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "O3Bhg",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "210p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "YxU9f",
+    "name": "四角防撞殼",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "YxU9f",
+        "variant_name": "透明",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Cc9iq",
+    "name": "壓克力",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Cc9iq",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "2mm",
+            "thickness": ""
+          },
+          {
+            "weight": "3mm",
+            "thickness": ""
+          },
+          {
+            "weight": "5mm",
+            "thickness": ""
+          },
+          {
+            "weight": "10mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "qwguO",
+    "name": "安格映畫紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "qwguO",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "22"
+          },
+          {
+            "weight": "240p",
+            "thickness": "28"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "dlido",
+    "name": "安格紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "dlido",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "XtfSR",
+    "name": "帆布",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "XtfSR",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "kvhvQ",
+    "name": "彩幻紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "kvhvQ",
+        "variant_name": "淺綠色",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "WIQY3",
+    "name": "彩珠紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "WIQY3",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "CGZuv",
+    "name": "描圖紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "CGZuv",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": "16"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "CGZuw",
+    "name": "古銅金黃紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "CGZuw",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "CGZux",
+    "name": "彩紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "CGZux",
+        "variant_name": "橘黃",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "25"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "CGZut",
+    "name": "鳳尾花紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "CGZut",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "9"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "SGZZy",
+    "name": "撲克牌紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "SGZZy",
+        "variant_name": "雙面滑油",
+        "quality": [
+          {
+            "weight": "285g",
+            "thickness": "29"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "PeZUZ",
+    "name": "日本一級卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "PeZUZ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Mt55w",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "knQ11",
+        "variant_name": "單面布紋",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "bqCs0",
+        "variant_name": "單面皮革",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "M20Sf",
+        "variant_name": "單面絲絨",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "9HLCI",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "MGKwF",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "gwoQB",
+        "variant_name": "雙面布紋",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "IOEDz",
+        "variant_name": "雙面皮革",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "sPzNK",
+        "variant_name": "雙面絲絨",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "AsIHj",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "28"
+          },
+          {
+            "weight": "310p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "ooXTR",
+    "name": "日本相紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "ooXTR",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "190p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "ZKD7p",
+    "name": "星幻紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "ZKD7p",
+        "variant_name": "金色",
+        "quality": [
+          {
+            "weight": "285g",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Akmdv",
+    "name": "星彩安格紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Akmdv",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "qAqLS",
+    "name": "映畫紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "qAqLS",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "100p",
+            "thickness": "12"
+          },
+          {
+            "weight": "120p",
+            "thickness": "13.5"
+          },
+          {
+            "weight": "140p",
+            "thickness": "17"
+          },
+          {
+            "weight": "200p",
+            "thickness": "24"
+          },
+          {
+            "weight": "240p",
+            "thickness": "30"
+          },
+          {
+            "weight": "290p",
+            "thickness": "36"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "ENL3X",
+        "variant_name": "米色",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "0JIf0",
+    "name": "晶綻紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "0JIf0",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "260p",
+            "thickness": "32"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "wesHl",
+    "name": "暗紅卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "wesHl",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "hVJKW",
+    "name": "木紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "hVJKW",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "vsuP6",
+    "name": "杯墊",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "vsuP6",
+        "variant_name": "米白色",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "bQAb3",
+    "name": "松木密集板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "bQAb3",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "2.6mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "XLjW4",
+    "name": "柳葉紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "XLjW4",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "105g",
+            "thickness": "14"
+          },
+          {
+            "weight": "209g",
+            "thickness": "28"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Va1fD",
+    "name": "棉絮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Va1fD",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "31nTI",
+    "name": "標準PVC卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "31nTI",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "DNpHD",
+    "name": "模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "DNpHD",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "crPm5",
+    "name": "模造貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "crPm5",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "psaBJ",
+        "variant_name": "厚底",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "3Q7WL",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "rcPbW",
+    "name": "橘色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "rcPbW",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "omn2T",
+    "name": "毯紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "omn2T",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "220p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "E9dql",
+    "name": "水彩紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "E9dql",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "PKvcj",
+    "name": "永采紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "PKvcj",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "240p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "WTVaQ",
+    "name": "油性PP相紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "WTVaQ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Eo7PF",
+    "name": "油性PVC背膠",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Eo7PF",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "mdBwr",
+    "name": "油性全透PVC背膠",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "mdBwr",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "hogL2",
+    "name": "油畫布",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "hogL2",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "BTM1d",
+    "name": "淡紫色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "BTM1d",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "a7yoC",
+    "name": "深藍色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "a7yoC",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "iWEvL",
+    "name": "淺綠模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "iWEvL",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "vWucq",
+    "name": "淺綠色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "vWucq",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "S5TIV",
+    "name": "淺藍模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "S5TIV",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "YClBb",
+    "name": "淺黃模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "YClBb",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "zsYu2",
+    "name": "紅色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "zsYu1",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "zsYu1",
+    "name": "灰色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "zsYu1",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "KIhwA",
+    "name": "灰銅",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "KIhwA",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "54條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "AjzMY",
+    "name": "炫光紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "AjzMY",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "RB25n",
+        "variant_name": "米色",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "RB25o",
+        "variant_name": "銀色",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "35"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "k2oCZ",
+    "name": "牛津布",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "k2oCZ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "ILN7Q",
+    "name": "牛皮色棉絮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "ILN7Q",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "220p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "vD53W",
+    "name": "珠光貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "vD53W",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "hNwFO",
+        "variant_name": "R膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Gktrg",
+        "variant_name": "冷凍膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "JvtGW",
+        "variant_name": "熱融膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "sSGIM",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "t4Zxa",
+    "name": "瓦楞紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "t4Zxa",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "7.8mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "OTTmk",
+    "name": "畫刊紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "OTTmk",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "9"
+          },
+          {
+            "weight": "100p",
+            "thickness": "11"
+          },
+          {
+            "weight": "120p",
+            "thickness": "14"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "5sJVI",
+    "name": "發泡板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "5sJVI",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "2mm",
+            "thickness": ""
+          },
+          {
+            "weight": "3mm",
+            "thickness": ""
+          },
+          {
+            "weight": "5mm",
+            "thickness": ""
+          },
+          {
+            "weight": "10mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "VvKfA",
+    "name": "白亮PVC貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "VvKfA",
+        "variant_name": "高黏R膠",
+        "quality": [
+          {
+            "weight": "100p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "X5IBV",
+    "name": "白模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "X5IBV",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "LLd6v",
+    "name": "白牛皮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "LLd6v",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "100p",
+            "thickness": "13"
+          },
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "140p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "NYCRE",
+    "name": "白銅",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "NYCRE",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "52條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "lHZ7i",
+    "name": "直式瓦楞板D-BOARD",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "lHZ7i",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "10mm",
+            "thickness": ""
+          },
+          {
+            "weight": "16mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "UhFtW",
+    "name": "科技纖維",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "UhFtW",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "m2374",
+    "name": "粉紅模造紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "m2374",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "無法製作局光、3D局光、局燙與3D局燙，因紙張會將局光精油吸收。"
+      }
+    ]
+  },
+  {
+    "id": "MiWWa",
+    "name": "粗閃金卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "MiWWa",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "WnUjH",
+    "name": "粗閃銀卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "WnUjH",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "lMhS3",
+    "name": "紗蘿紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "lMhS3",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "28"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "xIMIJ",
+    "name": "細紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "xIMIJ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "90p",
+            "thickness": "12"
+          },
+          {
+            "weight": "150p",
+            "thickness": "18"
+          },
+          {
+            "weight": "180p",
+            "thickness": "22"
+          },
+          {
+            "weight": "220p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "rs9Oa",
+        "variant_name": "淺米色",
+        "quality": [
+          {
+            "weight": "90p",
+            "thickness": "12"
+          },
+          {
+            "weight": "120p",
+            "thickness": "15"
+          },
+          {
+            "weight": "150p",
+            "thickness": "18"
+          },
+          {
+            "weight": "180p",
+            "thickness": "22"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "W56Uw",
+    "name": "細閃金卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "W56Uw",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Xbi4C",
+    "name": "細閃銀卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Xbi4C",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "wNWqU",
+    "name": "絲紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "wNWqU",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "34"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "lOF9N",
+    "name": "綠色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "lOF9N",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "vEiIP",
+    "name": "維儷紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "vEiIP",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "hIV1w",
+    "name": "美彩絲紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "hIV1w",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "290p",
+            "thickness": "36"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "NqA00",
+    "name": "美樂紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "NqA00",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "262g",
+            "thickness": "28"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "fcWVe",
+    "name": "自備卡片",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "fcWVe",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Jb8Bu",
+    "name": "自備材料",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Jb8Bu",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "XGpll",
+    "name": "萊妮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "XGpll",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "90p",
+            "thickness": "12"
+          },
+          {
+            "weight": "120p",
+            "thickness": "15"
+          },
+          {
+            "weight": "150p",
+            "thickness": "18"
+          },
+          {
+            "weight": "180p",
+            "thickness": "22"
+          },
+          {
+            "weight": "220p",
+            "thickness": "26"
+          },
+          {
+            "weight": "270p",
+            "thickness": "33"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "9G7Qw",
+        "variant_name": "淺米色",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "15"
+          },
+          {
+            "weight": "150p",
+            "thickness": "18"
+          },
+          {
+            "weight": "180p",
+            "thickness": "22"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "HHhMK",
+        "variant_name": "紅色",
+        "quality": [
+          {
+            "weight": "90",
+            "thickness": "12"
+          }
+        ],
+        "introduction": "主要使用於信封色紙"
+      }
+    ]
+  },
+  {
+    "id": "RT4FW",
+    "name": "薄紙類",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "RT4FW",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p至190p以內",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "mNgm0",
+    "name": "藍色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "mNgm0",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "VMCrY",
+    "name": "蜜桃絨",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "VMCrY",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "cZ2jm",
+    "name": "觸感紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "cZ2jm",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "DTRsL",
+    "name": "象牙卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "DTRsL",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "120p",
+            "thickness": "16"
+          },
+          {
+            "weight": "150p",
+            "thickness": "19.5"
+          },
+          {
+            "weight": "180p",
+            "thickness": "23.5"
+          },
+          {
+            "weight": "220p",
+            "thickness": "28"
+          },
+          {
+            "weight": "270p",
+            "thickness": "36"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "cqLT0",
+        "variant_name": "淺米色",
+        "quality": [
+          {
+            "weight": "120",
+            "thickness": "16"
+          },
+          {
+            "weight": "150",
+            "thickness": "19.5"
+          },
+          {
+            "weight": "180",
+            "thickness": "23.5"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "DTRsM",
+    "name": "頂級象牙卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "DTRsM",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "30"
+          },
+          {
+            "weight": "290p",
+            "thickness": "36"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "z7Ckf",
+    "name": "豪卡板",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "z7Ckf",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "5mm",
+            "thickness": ""
+          },
+          {
+            "weight": "10mm",
+            "thickness": ""
+          },
+          {
+            "weight": "16mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "svvxK",
+    "name": "赤牛皮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "svvxK",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "84g",
+            "thickness": "12"
+          },
+          {
+            "weight": "100p",
+            "thickness": "14"
+          },
+          {
+            "weight": "120p",
+            "thickness": "18"
+          },
+          {
+            "weight": "210p",
+            "thickness": ""
+          },
+          {
+            "weight": "230p",
+            "thickness": ""
+          },
+          {
+            "weight": "250p",
+            "thickness": "32"
+          },
+          {
+            "weight": "76條",
+            "thickness": "76"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "svvxK",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "76條",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "za2LP",
+    "name": "赤牛皮貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "za2LP",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "0ne1S",
+        "variant_name": "厚底",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "InrVw",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "HTj8t",
+    "name": "軟性磁鐵",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "HTj8t",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "1.0mm",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "azhk8",
+    "name": "透明卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "azhk8",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "700p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "ohJEp",
+    "name": "透明貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "ohJEp",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "40p",
+            "thickness": ""
+          },
+          {
+            "weight": "100p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "IJGfE",
+    "name": "透明靜電貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "IJGfE",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "TGyg6",
+    "name": "道林紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "TGyg6",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "70p",
+            "thickness": "9"
+          },
+          {
+            "weight": "80p",
+            "thickness": "10"
+          },
+          {
+            "weight": "100p",
+            "thickness": "12"
+          },
+          {
+            "weight": "120p",
+            "thickness": "14"
+          },
+          {
+            "weight": "147g",
+            "thickness": "18"
+          },
+          {
+            "weight": "180p",
+            "thickness": "24"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "wRkAq",
+        "variant_name": "彩色印刷",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "10"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "A0YNk",
+        "variant_name": "空白",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "10"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "3udFI",
+        "variant_name": "網格",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "10"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "bi6vG",
+        "variant_name": "黑白印刷",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "10"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "EIAgJ",
+    "name": "采石紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "EIAgJ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "90p",
+            "thickness": "12"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "fqlTT",
+    "name": "金箔貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "fqlTT",
+        "variant_name": "消光",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "j1cVI",
+    "name": "金色特多龍",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "j1cVI",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "25g",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "2wZW1",
+    "name": "銀箔貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "2wZW1",
+        "variant_name": "消光",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "Gytb4",
+    "name": "銀色特多龍",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "Gytb4",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "25g",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "1MVeX",
+    "name": "銅版貼紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "1MVeX",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "lWIxA",
+        "variant_name": "R膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "F35au",
+        "variant_name": "冷凍膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "aFnBT",
+        "variant_name": "冷凍膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "zhnA1",
+        "variant_name": "厚底",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "fjhkQ",
+        "variant_name": "厚底",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "dmYUL",
+        "variant_name": "厚底",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "85YdX",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "xxvwG",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "25s6c",
+        "variant_name": "熱融膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "cOHVq",
+        "variant_name": "熱融膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "pITvT",
+        "variant_name": "熱融膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "cAab7",
+        "variant_name": "熱融膠",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "XdRmU",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "xoqHk",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          },
+          {
+            "weight": "160p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "6glQO",
+        "variant_name": "超黏",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "T2c8r",
+    "name": "銅西卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "T2c8r",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "kwwtg",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "DRNgu",
+        "variant_name": "單面局部上光",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "nIgCd",
+        "variant_name": "單面絲絨",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "8Ewl6",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "BGe6n",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "GiKcj",
+        "variant_name": "單面磨砂",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "M6tbH",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "jlTVX",
+        "variant_name": "雙面絲絨",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "6k5lh",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "KNyws",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "25"
+          },
+          {
+            "weight": "300p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "35"
+          },
+          {
+            "weight": "400p",
+            "thickness": "40"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "OoWr9",
+        "variant_name": "雙面UV上光",
+        "quality": [
+          {
+            "weight": "400p",
+            "thickness": "40"
+          },
+          {
+            "weight": "450p",
+            "thickness": "45"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "8hDTr",
+    "name": "鐵蓋",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "8hDTr",
+        "variant_name": "塑料底",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "lJyet",
+        "variant_name": "磁鐵底",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "hsjGn",
+        "variant_name": "鏡片底",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "1DIBy",
+        "variant_name": "鐵底",
+        "quality": [
+          {
+            "weight": "",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "WCOSg",
+    "name": "雅紋映畫紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "WCOSg",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "28"
+          },
+          {
+            "weight": "290p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "EA2Dk",
+    "name": "雅風紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "EA2Dk",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "90p",
+            "thickness": "11"
+          },
+          {
+            "weight": "240p",
+            "thickness": "30"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "t4pSl",
+    "name": "雙銅紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "t4pSl",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "6.5"
+          },
+          {
+            "weight": "100p",
+            "thickness": "7"
+          },
+          {
+            "weight": "120p",
+            "thickness": "9"
+          },
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "R9F5H",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "MaTDw",
+        "variant_name": "單面絲絨",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "LI8Tj",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "IkrJd",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "tCnOn",
+        "variant_name": "單面水光",
+        "quality": [
+          {
+            "weight": "100p",
+            "thickness": "7"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "rbwQa",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "HXdTN",
+        "variant_name": "雙面絲絨",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "d5269",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "12"
+          },
+          {
+            "weight": "190p",
+            "thickness": "15"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "mMJxC",
+    "name": "雪銅紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "mMJxC",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "7"
+          },
+          {
+            "weight": "100p",
+            "thickness": "9"
+          },
+          {
+            "weight": "120p",
+            "thickness": "11"
+          },
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "200p",
+            "thickness": "20"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "CAfaP",
+        "variant_name": "單面亮膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "EGtL7",
+        "variant_name": "單面布紋",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Z2gQx",
+        "variant_name": "單面皮革",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "cHfa3",
+        "variant_name": "單面絲絨",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Zkhds",
+        "variant_name": "單面霧膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "By61Y",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "gOKmm",
+        "variant_name": "雙面布紋",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "Glzrr",
+        "variant_name": "雙面皮革",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "mXE0R",
+        "variant_name": "雙面絲絨",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "1zWBL",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "150p",
+            "thickness": "14"
+          },
+          {
+            "weight": "190p",
+            "thickness": "16"
+          },
+          {
+            "weight": "250p",
+            "thickness": "26"
+          },
+          {
+            "weight": "300p",
+            "thickness": "31"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "JWfgl",
+    "name": "雪面銅西卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "JWfgl",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "250p",
+            "thickness": ""
+          },
+          {
+            "weight": "300p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "zEbmT",
+        "variant_name": "雙面亮膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": ""
+          },
+          {
+            "weight": "250p",
+            "thickness": ""
+          },
+          {
+            "weight": "300p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "0Wq7y",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "200p",
+            "thickness": ""
+          },
+          {
+            "weight": "250p",
+            "thickness": ""
+          },
+          {
+            "weight": "300p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "TXc32",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "300p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "7RMsF",
+        "variant_name": "雙面霧膜",
+        "quality": [
+          {
+            "weight": "300p",
+            "thickness": ""
+          },
+          {
+            "weight": "250p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "4ySPQ",
+    "name": "非碳複寫紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "4ySPQ",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "45g",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "EZQyK",
+    "name": "馬克杯",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "EZQyK",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "330cc",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "pa5Ak",
+    "name": "骨紋紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "pa5Ak",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "12"
+          },
+          {
+            "weight": "100p",
+            "thickness": "16"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "cTNqg",
+        "variant_name": "米色",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": "12"
+          },
+          {
+            "weight": "100p",
+            "thickness": "16"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      },
+      {
+        "id": "BUcyM",
+        "variant_name": "粉紅色",
+        "quality": [
+          {
+            "weight": "80p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "GIIrN",
+    "name": "鮮紅卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "GIIrN",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "3"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "MJuxi",
+    "name": "黃牛皮紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "MJuxi",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "100p",
+            "thickness": "14"
+          },
+          {
+            "weight": "120p",
+            "thickness": "17"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "HEckj",
+    "name": "黃綠色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "HEckj",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": ""
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "DYE46",
+    "name": "黃色紙",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "DYE46",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "180p",
+            "thickness": "26"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  },
+  {
+    "id": "8NJXH",
+    "name": "黑卡",
+    "image": "/Image/paper/a1.jpg",
+    "introduction": "機哩渣啦機哩渣啦",
+    "variants": [
+      {
+        "id": "8NJXH",
+        "variant_name": "",
+        "quality": [
+          {
+            "weight": "240p",
+            "thickness": "30"
+          },
+          {
+            "weight": "350p",
+            "thickness": "46"
+          }
+        ],
+        "introduction": "機哩渣啦機哩渣啦"
+      }
+    ]
+  }
+]

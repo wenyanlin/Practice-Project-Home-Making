@@ -1,0 +1,122 @@
+{
+    "id": "ci01",
+    "name": "彩色名片",
+    "category": "01.名片合版",
+    "introduction": "適用於名片、會員卡、集點卡、個性化名片、店卡、產品說明卡、保證卡、吊牌、小廣告牌或打圓孔後可做產品說明卡……等等。",
+    "image": [
+        "/Image/product/productImage/ci0101.jpg",
+        "/Image/product/productImage/ci0102.jpg",
+        "/Image/product/productImage/ci0103.jpg"
+    ],
+    "releaseDate": "星期一至星期五",
+    "submission": "晚上07:00",
+    "shipping": {
+        "time": "1～2 個工作日",
+        "note": "一級卡雙亮、一級卡雙霧、一級卡單局光需2~3個工作日。"
+    },
+    "paper": [
+        {
+            "id":"XGpll",
+            "option":[
+                {"id":"XGpll", "w":["220p"]}
+            ]
+        },
+        {
+            "id":"DTRsL",
+            "option":[
+                {"id":"DTRsL", "w":["220p","270p"]}
+            ]
+        },
+        {
+            "id":"qwguO",
+            "option":[
+                {"id":"qwguO", "w":["240p"]}
+            ]
+        },
+        {
+            "id": "qIq4Z",
+            "option": [
+                {"id":"qIq4Z","w":["250p"]},
+                {"id":"En6Hh","w":["250p"]},
+                {"id":"EjgFa","w":["250p"]},
+                {"id":"48yOD","w":["250p"]},
+                {"id":"hjlIW","w":["250p"]}
+            ]
+        },
+        {
+            "id":"AjzMY",
+            "option":[
+                {"id":"AjzMY", "w":["250p"]}
+            ]
+        },
+        {
+            "id":"NqA00",
+            "option":[
+                {"id":"NqA00", "w":["262p"]}
+            ]
+        },
+        {
+            "id":"WCOSg",
+            "option":[
+                {"id":"WCOSg", "w":["290p"]}
+            ]
+        }
+
+    ],
+    "printingProcess": [
+        {
+            "id":"u9UOt",
+            "option":["u9UOt"]
+        },
+        {
+            "id":"PFRW5",
+            "option":["PFRW5"]
+        },
+        {
+            "id":"l2Wtk",
+            "option":["l2Wtk"]
+        },
+        {
+            "id":"NH2W1",
+            "option":["NH2W1"]
+        },
+        {
+            "id":"rQDub",
+            "option":["rQDub"]
+        },
+        {
+            "id":"Uwmzr",
+            "option":["Uwmzr"]
+        },
+        {
+            "id":"zR7bK",
+            "option":["GdQrP","euQ1h","NODYL"]
+        }
+    ],
+    "introButton": [
+        {
+            "id": "product-infor",
+            "name": "產品資訊"
+        },
+        {
+            "id": "size-spec",
+            "name": "尺寸規格"
+        },
+        {
+            "id": "paper-texture",
+            "name": "紙張材質"
+        },
+        {
+            "id": "print-finishing-services",
+            "name": "印後加工"
+        },
+        {
+            "id": "printing-rules",
+            "name": "委印須知"
+        },
+        {
+            "id": "printing-guidelines",
+            "name": "製稿須知"
+        }
+    ]
+}

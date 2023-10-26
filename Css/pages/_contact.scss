@@ -1,0 +1,137 @@
+.main {
+    .contact {
+        &_title {
+            padding: 0 0 120px 0;
+            background-color: $primary-bg-color;
+            font-weight: 600;
+        }
+
+        &_content {
+            width: 100%;
+            position: relative;
+
+            .company-information {
+
+                &_list {
+                    width: 100%;
+                    position: absolute;
+                    top: -60px;
+                    display: flex;
+                    justify-content: space-between;
+                    gap: 50px;
+                }
+
+                &_item {
+                    flex: 1;
+                    text-align: left;
+
+                    &_map {
+                        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+                        border-radius: 10px;
+                        height: 450px;
+                        overflow: hidden;
+                    }
+
+                    h4 {
+                        margin: 50px 0 20px 0;
+                    }
+
+                    ul {
+                        display: flex;
+                        flex-direction: column;
+                        gap: 10px;
+
+                        li {
+                            i {
+                                padding: 0 10px 0 0;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .regional-business {
+                margin: 750px 0 150px;
+
+                &_title {
+                    text-align: left;
+                    margin: 0;
+                }
+
+                &_content {
+                    &_department {
+                        padding: 50px 0 10px 5px;
+                        text-align: left;
+                        border-bottom: 1px $other-color solid;
+                        position: sticky;
+                        top: 94px;
+                        background-color: $main-bg-color;
+                        z-index: 3;
+                    }
+
+                    &_table {
+                        min-width: 100%;
+                        padding: 50px;
+                        background-color: $primary-bg-color;
+                        text-align: left;
+                        border-left: 1px $other-color solid;
+                        border-right: 1px $other-color solid;
+                        border-bottom: 1px $other-color solid;
+
+                        tr {
+                            th {
+                                padding-bottom: 10px;
+                                background-color: $primary-bg-color;
+                                border-bottom: 1px $main-text-color solid;
+                            }
+
+                            td {
+                                padding: 10px 60px 10px 0;
+                                white-space: nowrap;
+
+                                &:last-child {
+                                    padding-right: 0;
+                                    white-space: wrap;
+                                }
+                            }
+
+                            .regional-business_content_table-service {
+                                font-size: $small-size;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .special-quotation {
+                margin: 0 0 150px 0;
+
+                &_content {
+                    p {
+                        text-align: left;
+                        padding: 0 0 10px 1px;
+                        border-bottom: 1px $other-color solid;
+                    }
+
+                    &_download {
+                        margin: 30px 0 0 0;
+                        padding: 10px;
+                        transition: all 0.3s ease;
+                        width: 200px;
+                        background-color: #c7a469;
+                        color: white;
+                        display: block;
+                        text-decoration: none;
+                        height: 50px;
+                        border: 1px $other-color solid;
+                        transition: $quick-transition;
+
+                        &:hover {
+                            filter: brightness(0.9);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

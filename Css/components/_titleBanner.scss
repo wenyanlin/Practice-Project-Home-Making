@@ -1,0 +1,17 @@
+.title-banner {
+    background-color: $primary-color;
+    background-image: url('/Image/product/banner2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $dark-bg-text-color;
+    font-size: $large-font-size;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    overflow: hidden;
+}

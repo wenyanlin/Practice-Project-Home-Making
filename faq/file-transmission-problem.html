@@ -1,0 +1,22 @@
+<div class="faq_question_inner" id="file-transmission-problem">
+    <div class="faq_question_title title">傳檔問題</div>
+    <div class="faq_question_content">
+        <div class="faq_question_content_category">
+            <ul class=" side-category">
+                <li>問題分類</li>
+                <li data-theme="file-problem">檔案問題</li>
+                <li data-theme="file-transfer-master-problem">傳檔大師問題</li>
+
+            </ul>
+        </div>
+        <form class="faq_question_list faq_question_content_list" id="faq_question_list"></form>
+    </div>
+</div>
+
+<script type="module">
+    import { clickSubcategoryButton } from "/Js/faqSubcategory.js";
+    const fullUrl = window.location.href;
+    const urlWithoutQuery = fullUrl.split('?')[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    clickSubcategoryButton('faq', urlWithoutQuery, urlParams.get('category'));
+</script>

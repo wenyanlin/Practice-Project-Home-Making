@@ -1,0 +1,26 @@
+<div class="faq_question_inner" id="sample-file-download">
+    <div class="faq_question_title title download_title">樣本檔</div>
+    <div class="faq_question_content">
+        <div class="faq_question_content_category">
+            <ul class="side-category">
+                <li>樣本檔分類</li>
+                <li data-theme="installation-tutorial">瓜</li>
+                <li data-theme="order-tutorial">瓜</li>
+                <li data-theme="remove-tutorial">叫</li>
+            </ul>
+        </div>
+        <div class="faq_question_list faq_question_content_list
+        download_content_list" id="faq_question_list"></div>
+    </div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+<script src="/Js/components/ajax-download-file.js"></script>
+<script type="module">
+    import { downloadButton } from "/Js/components/downloadButton.js";
+    import { clickSubcategoryButton } from "/Js/faqSubcategory.js";
+    const fullUrl = window.location.href;
+    const urlWithoutQuery = fullUrl.split('?')[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    clickSubcategoryButton('download', urlWithoutQuery, urlParams.data('category'));
+    downloadButton();
+</script>

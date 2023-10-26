@@ -1,0 +1,97 @@
+.main {
+    .events {
+        display: flex;
+        justify-content: center;
+        background-color: $primary-bg-color;
+
+        .inner {
+            flex-direction: column;
+
+            .month {
+                ul {
+                    display: flex;
+                    justify-content: center;
+                    margin: 10px 0 0 0;
+                    padding: 0;
+
+                    li {
+                        width: 16.7%;
+                        height: 50px;
+                        line-height: 50px;
+                        font-size: $med-font-size;
+                        text-align: center;
+                        cursor: pointer;
+                        transition: $quick-transition;
+                    }
+
+
+                    .current {
+                        position: relative;
+
+                        &:hover {
+                            cursor: default;
+                        }
+
+                        &::after {
+                            content: '';
+                            position: absolute;
+                            bottom: 0;
+                            left: 107.5px;
+                            transform: translateX(-50%);
+                            width: 30%;
+                            height: 2px;
+                            background-color: $title-color;
+                            border-radius: 2px;
+                        }
+                    }
+                }
+            }
+
+            .contentbyDate {
+                display: flex;
+                flex-direction: column;
+                margin: 20px 0 50px;
+                min-height: calc(100vh - 150px);
+                border-radius: 20px;
+
+                .item {
+                    display: flex;
+                    margin: 30px 0 0 0;
+                    text-align: center;
+                    width: 100%;
+                    background-color: $main-bg-color;
+                    padding: 20px;
+                    border-radius: 20px;
+
+                    &:first-child {
+                        margin: 10px 0 0 0;
+                    }
+
+                    &:last-child {
+                        margin-bottom: 40px;
+                    }
+
+                    .date {
+                        width: 10%;
+                    }
+
+                    .type {
+                        width: 10%;
+                    }
+
+                    .content {
+                        width: 80%;
+                        text-align: left;
+                        padding-left: 20px;
+                    }
+                }
+
+                p {
+                    margin: 30px 0 0 0;
+                    text-align: center;
+                }
+
+            }
+        }
+    }
+}

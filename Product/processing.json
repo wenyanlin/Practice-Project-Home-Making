@@ -1,0 +1,808 @@
+[
+    {
+        "id": "ZqXRB",
+        "name": "表面上光",
+        "image": "",
+        "introduction": "上光主要作用是為了加強印刷品表面的耐磨度及增加美觀效果",
+        "variants": [
+            {
+                "id": "H6IFC",
+                "variant_name": "單面亮膜",
+                "introduction": "(待改)單面上亮膜不僅讓您的名片色澤亮麗鮮豔，正面可防潑水防塵，加強厚度與耐久度。",
+                "price_addr": ""
+            },
+            {
+                "id": "j31fJ",
+                "variant_name": "單面霧膜",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "oxOXL",
+                "variant_name": "雙面亮膜",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "FJxUx",
+                "variant_name": "雙面霧膜",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "oFiKS",
+                "variant_name": "單面局部上光",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "q6fGt",
+                "variant_name": "雙面局部上光",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "yLzYu",
+                "variant_name": "單面UV上光",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "66zuT",
+                "variant_name": "雙面UV上光",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "zR7bK",
+        "name": "裁切",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "zR7bK",
+                "variant_name": "裁切",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "GdQrP",
+                "variant_name": "橫裁二模",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "euQ1h",
+                "variant_name": "對裁二模",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "NODYL",
+                "variant_name": "對裁三模",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "1Cocz",
+        "name": "摺紙",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "Q36la",
+                "variant_name": "對摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "mLy3W",
+                "variant_name": "包摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "rxCMt",
+                "variant_name": "N字摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ohAGs",
+                "variant_name": "十字摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "zcDjv",
+                "variant_name": "平行二摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "7kZxk",
+                "variant_name": "對摺 + 包摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ItKCb",
+                "variant_name": "對摺 + N字摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "QkUXL",
+                "variant_name": "十字摺 + 對摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "zbOkp",
+                "variant_name": "彈簧三摺 + 對摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "8tEY7",
+                "variant_name": "開門摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "43xNg",
+                "variant_name": "觀音摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "EBqOX",
+                "variant_name": "彈簧三摺 / 蛋捲三摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "AfJAl",
+                "variant_name": "彈簧四摺 / 蛋捲四摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "kNoTX",
+                "variant_name": "彈簧五摺 / 蛋捲五摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "2Rw5t",
+                "variant_name": "彈簧六摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "w6D7w",
+                "variant_name": "彈簧包六摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "53IpQ",
+                "variant_name": "彈簧七摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "wUboT",
+                "variant_name": "彈簧包七摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "l682K",
+                "variant_name": "彈簧八摺",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "D0Mr2",
+                "variant_name": "彈簧包八摺",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "A9BU5",
+        "name": "壓摺線",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "7JTnk",
+                "variant_name": "壓摺線",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "QAUlI",
+        "name": "壓撕線",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "tIxo6",
+                "variant_name": "壓撕線",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "mH4tS",
+        "name": "割底紙",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "STkek",
+                "variant_name": "割底紙",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "u9UOt",
+        "name": "打圓孔",
+        "image": "",
+        "image2": "/Image/process/打圓孔01.svg",
+        "introduction": "在所需區域打上圓孔，常用於各式吊牌及吊卡，亦可作為裝飾使用。",
+        "variants": [
+            {
+                "id": "u9UOt",
+                "variant_name": "",
+                "introduction": "",
+                "process_guideline": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "PFRW5",
+        "name": "沖孔",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "PFRW5",
+                "variant_name": "沖孔",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "rQDub",
+        "name": "倒圓角",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "rQDub",
+                "variant_name": "倒圓角",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "GTKuD",
+        "name": "700PVC卡加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "U43E2",
+                "variant_name": "簽名條",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "554IW",
+                "variant_name": "平燙流水號",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "l1R0j",
+                "variant_name": "流水號平燙 + 英文字母",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "M9V1h",
+                "variant_name": "高磁帶",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "v7yk6",
+                "variant_name": "刮刮樂",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "8zzos",
+                "variant_name": "局部燙金",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "fj1oU",
+                "variant_name": "滿版燙金",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "zct8W",
+                "variant_name": "條碼密碼",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "W78oQ",
+                "variant_name": "密碼刮刮樂",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "QqwP2",
+                "variant_name": "沖孔",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "l2Wtk",
+        "name": "燙金",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "l2Wtk",
+                "variant_name": "燙金",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "NH2W1",
+        "name": "壓凸",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "NH2W1",
+                "variant_name": "壓凸",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "Uwmzr",
+        "name": "軋型",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "Uwmzr",
+                "variant_name": "軋型",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "n8QYf",
+                "variant_name": "全斷半斷軋型",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "V8gwr",
+                "variant_name": "自訂新刀",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "z8NGR",
+                "variant_name": "自備刀模",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "4SF7z",
+        "name": "沖模壓型",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "9RaEN",
+                "variant_name": "",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "445Qg",
+        "name": "信封加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "S3T9h",
+                "variant_name": "信封糊工",
+                "introduction": "中心糊、側邊糊、中心糊開窗",
+                "price_addr": ""
+            },
+            {
+                "id": "bL25V",
+                "variant_name": "封口貼雙面膠 ",
+                "introduction": "手工貼合",
+                "price_addr": ""
+            },
+            {
+                "id": "8p0CJ",
+                "variant_name": "中式紅包袋20K分裝",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "fbS7e",
+                "variant_name": "信封開窗",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "uS9r9",
+                "variant_name": "現成封套",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "uMzTz",
+        "name": "資料夾成型",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "LfZTs",
+                "variant_name": "機器糊耳",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "MVVWM",
+                "variant_name": "手工糊耳",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "RBnsu",
+                "variant_name": "手工插耳",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "pOUsG",
+                "variant_name": "糊底預留一公分",
+                "introduction": "僅限0.18及0.2mm的L型A4資料夾單層",
+                "price_addr": ""
+            },
+            {
+                "id": "NlcXm",
+                "variant_name": "完全密合成型",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "3XeK4",
+                "variant_name": "加裝名片袋",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "qd5hO",
+                "variant_name": "透明袋包裝",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "9eoMe",
+        "name": "手提袋加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "6peZO",
+                "variant_name": "棉繩",
+                "introduction": "45cm, 60cm, 75cm, 90cm",
+                "price_addr": ""
+            },
+            {
+                "id": "s5GYJ",
+                "variant_name": "人字棉繩",
+                "introduction": "30cm, 45cm, 60cm, 75cm, 90cm",
+                "price_addr": ""
+            },
+            {
+                "id": "w3QZt",
+                "variant_name": "加裝銅扣",
+                "introduction": "金色或銀色",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "JAm20",
+        "name": "扇子代工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "Y5zV6",
+                "variant_name": "代裝把手",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "G0tTm",
+                "variant_name": "代工摺角",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ZR6Bo",
+                "variant_name": "代摺把手",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "2t2G1",
+                "variant_name": "自行貼合扇面",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "3kB8r",
+                "variant_name": "代貼扇柄標籤",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "voq7x",
+        "name": "流水號燙金",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "jhviu",
+                "variant_name": "張頁類流水號燙金",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "XDjZ9",
+                "variant_name": "名片類流水號燙金",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "AJSzk",
+        "name": "加印流水號、壓撕線",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "Q2KUh",
+                "variant_name": "加印流水號",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "SELl8",
+        "name": "裝訂",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "kawkP",
+                "variant_name": "騎馬釘",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "E8nzm",
+                "variant_name": "膠裝",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ritqM",
+                "variant_name": "線膠裝",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "6na1e",
+        "name": "製本加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "9Dsc7",
+                "variant_name": "糊頭製本",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "q12XY",
+                "variant_name": "加打釘",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "06eOe",
+                "variant_name": "加封皮",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "PoD9o",
+                "variant_name": "加包頭",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "laoZ8",
+                "variant_name": "加打孔",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "sQSm3",
+                "variant_name": "膠裝作法",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "1LSH0",
+                "variant_name": "只糊頭不拆本",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "a3Rgc",
+                "variant_name": "加流水號",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "9ku6A",
+                "variant_name": "造型類糊頭拆本",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "vi2hP",
+        "name": "複寫聯單加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "fJPdh",
+                "variant_name": "取消流水號",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ciD8p",
+                "variant_name": "取消打釘加撕線",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "5TbJ2",
+                "variant_name": "取消撕線",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "Bv1rY",
+                "variant_name": "取消加封皮",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "Bp7BL",
+                "variant_name": "加厚紙板",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "6MkgS",
+                "variant_name": "取消包頭製本",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "ysQv1",
+                "variant_name": "PS版",
+                "introduction": "PS版製版",
+                "price_addr": ""
+            },
+            {
+                "id": "Mkabf",
+                "variant_name": "取消糊頭",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "Yh2jg",
+                "variant_name": "使用單位區分聯",
+                "introduction": "每一聯皆標示使用單位，需自行於完稿稿面上註明每一聯的使用單位。",
+                "price_addr": ""
+            },
+            {
+                "id": "IhaWk",
+                "variant_name": "雙色印刷",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    },
+    {
+        "id": "9Uebh",
+        "name": "撲克牌加工",
+        "image": "",
+        "introduction": "",
+        "variants": [
+            {
+                "id": "O2tOG",
+                "variant_name": "紙盒外包收縮膜",
+                "introduction": "",
+                "price_addr": ""
+            },
+            {
+                "id": "9lnue",
+                "variant_name": "紙盒外包OPP膜 + 撕帶",
+                "introduction": "",
+                "price_addr": ""
+            }
+        ]
+    }
+]

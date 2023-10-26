@@ -1,0 +1,25 @@
+.container {
+    width: 300px;
+    margin: auto;
+    border: 1px solid blue;
+    border-width: 1px 0;
+  }
+  
+  .sticky {
+    width: 30px;
+    height: 10px;
+    background-color: red;
+    position:-webkit-sticky;
+    position:sticky;
+    top: 30px;
+  }
+  
+  .sticky:nth-of-type(2) {  transform: translateX(30px); }
+  .sticky:nth-of-type(3) {  transform: translateX(60px); }
+  .sticky:nth-of-type(4) {  transform: translateX(90px); }
+  .sticky:nth-of-type(5) {  transform: translateX(120px); }
+  .sticky:nth-of-type(6) {  transform: translateX(150px); }
+  .sticky:nth-of-type(7) {  transform: translateX(180px); }
+  .sticky:nth-of-type(8) {  transform: translateX(210px); }
+  .sticky:nth-of-type(9) {  transform: translateX(240px); }
+  .sticky:nth-of-type(10) {  transform: translateX(270px); }

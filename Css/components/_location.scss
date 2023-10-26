@@ -1,0 +1,25 @@
+.location {
+    font-size: $main-font-size;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    color: $sub-main-text-color;
+    
+
+    .inner {
+        justify-content: left;
+
+        span {
+            margin: auto 15px;
+        }
+        
+        .targetLocation {
+            margin: 0;
+            display: inline;
+            color: $title-color;
+            font-weight: 500;
+        }
+    }
+}

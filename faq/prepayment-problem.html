@@ -1,0 +1,23 @@
+<div class="faq_question_inner" id="prepayment-problem">
+    <div class="faq_question_title title">交易付款</div>
+    <div class="faq_question_content">
+        <div class="faq_question_content_category">
+            <ul class="side-category">
+                <li>問題分類</li>
+                <li data-theme="prepayment">預繳付款</li>
+                <li data-theme="alternative-payment-methods">其他繳費方式</li>
+                <li data-theme="invoice-related">發票相關</li>
+                <li data-theme="after-sales-service">售後服務</li>
+            </ul>
+        </div>
+        <form class="faq_question_list faq_question_content_list" id="faq_question_list"></form>
+    </div>
+</div>
+
+<script type="module">
+    import { clickSubcategoryButton } from "/Js/faqSubcategory.js";
+    const fullUrl = window.location.href;
+    const urlWithoutQuery = fullUrl.split('?')[0];
+    const urlParams = new URLSearchParams(window.location.search);
+    clickSubcategoryButton('faq', urlWithoutQuery, urlParams.get('category'));
+</script>

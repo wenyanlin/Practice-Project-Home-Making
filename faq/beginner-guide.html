@@ -1,0 +1,12 @@
+<div class="faq_question_inner" id="beginner-guide">
+    <div class="faq_question_title title">新手上路</div>
+    <div class="faq_question_sop" id="orderSOP"></div>
+    <form class="faq_question_list" id="faq_question_list"></form>
+</div>
+
+<script type="module">
+    import { activeOrderSOP } from "/Js/components/orderSOP.js";
+    $("#orderSOP").load("/components/orderSOP.html", function () {
+        activeOrderSOP();
+    });
+</script>

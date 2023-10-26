@@ -1,0 +1,598 @@
+[
+    {
+        "id":"Card Imposition",
+        "category": "名片合版",
+        "products": [
+            {
+                "id":"ColorBusinessCard",
+                "name": "彩色名片"
+            },
+            {
+                "id":"CardImposition",
+                "name": "卡片拼模"
+            },
+            {
+                "id":"FoldedBusinessCard",
+                "name": "對摺名片"
+            },
+            {
+                "id":"DieCutBusinessCard",
+                "name": "名片軋型"
+            },
+            {
+                "id":"ShapedCard",
+                "name": "造型卡片"
+            },
+            {
+                "id":"DieCutCard",
+                "name": "卡片軋型"
+            },
+            {
+                "id":"700PVCCard",
+                "name": "700PVC卡"
+            }
+        ]
+    },
+    {
+        "id":"Sticker Series",
+        "category": "貼紙系列",
+        "products": [
+            {
+                "id":"SmallStickers_Imposing",
+                "name":"小張貼紙_合版"
+            },
+            {
+                "id":"Stickers_Imposing",
+                "name": "貼紙拼模_合版"
+            },
+            {
+                "id":"DieCutStickers_Imposing",
+                "name": "造型貼紙_合版"
+            },
+            {
+                "id":"LabelStickers_R1_Imposing",
+                "name": "標籤貼紙_R1_合版"
+            },
+            {
+                "id":"LabelStickers_R2_Imposing",
+                "name": "標籤貼紙_R2_合版"
+            },
+            {
+                "id":"LabelStickers_R3_Imposing",
+                "name": "標籤貼紙_R3_合版"
+            },
+            {
+                "id":"AdvertisingStickers_B1_Imposing",
+                "name": "廣告貼紙_B1_合版"
+            },
+            {
+                "id":"AdvertisingStickers_B2_Imposing",
+                "name": "廣告貼紙_B2_合版"
+            },
+            {
+                "id":"AdvertisingStickers_B3_Imposing",
+                "name": "廣告貼紙_B3_合版"
+            },
+            {
+                "id":"NameLabelStickers",
+                "name": "姓名貼"
+            },
+            {
+                "id":"LabelStickers",
+                "name": "標韱貼紙"
+            },
+            {
+                "id":"SingleSheetSticker",
+                "name": "單張貼紙"
+            }
+        ]
+    },
+    {
+        "id":"Poster",
+        "category": "海報合版",
+        "products": [
+            {
+                "id":"PosterImposition",
+                "name": "海報合版"
+            },
+            {
+                "name": "摺紙海報"
+            },
+            {
+                "name": "一般常用海報"
+            }
+        ]
+    },
+    {
+        "id":"Separate Imposition",
+        "category": "單獨開版",
+        "products": [
+            {
+                "name": "不指定印刷機"
+            },
+            {
+                "name": "五開印刷"
+            },
+            {
+                "name": "五開左右輪轉"
+            },
+            {
+                "name": "五開天地輪轉"
+            },
+            {
+                "name": "菊對印刷"
+            },
+            {
+                "name": "菊對左右輪轉"
+            },
+            {
+                "name": "菊對天地輪轉"
+            },
+            {
+                "name": "對開印刷"
+            },
+            {
+                "name": "對開左右輪轉"
+            },
+            {
+                "name": "對開天地輪轉"
+            },
+            {
+                "name": "菊全印刷"
+            },
+            {
+                "name": "菊全左右輪轉"
+            },
+            {
+                "name": "菊全天地輪轉"
+            },
+            {
+                "name": "貼紙印刷"
+            }
+        ]
+    },
+    {
+        "id":"Digital Printing",
+        "category": "數位印刷",
+        "products": [
+            {
+                "name": "彩色數位單張"
+            },
+            {
+                "name": "黑色數位單張"
+            },
+            {
+                "name": "彩色數印貼紙"
+            },
+            {
+                "name": "寫真名片"
+            }
+        ]
+    },
+    {
+        "category": "750單開",
+        "products": [
+            {
+                "name": "單張_標準色&廣色域"
+            },
+            {
+                "name": "多款_標準色&廣色域"
+            }
+        ]
+    },
+    {
+        "category": "750數位印刷",
+        "products": [
+            {
+                "name": "數位單張_標準色&廣色域"
+            }
+        ]
+    },
+    {
+        "category": "雞尾酒工法類",
+        "products": [
+            {
+                "name": "雞酒名片（90X54mm)"
+            },
+            {
+                "name": "雞酒單張"
+            },
+            {
+                "name": "雞酒貼紙"
+            },
+            {
+                "name": "刮刮名片"
+            },
+            {
+                "name": "刮刮卡片"
+            }
+        ]
+    },
+    {
+        "category": "自備紙代工印刷",
+        "products": [
+            {
+                "name": "自備紙_開版"
+            },
+            {
+                "name": "自備紙_數印"
+            },
+            {
+                "name": "自備紙_750"
+            }
+        ]
+    },
+    {
+        "category": "信封類",
+        "products": [
+            {
+                "name": "彩色信封_中式"
+            },
+            {
+                "name": "彩色信封_西式"
+            },
+            {
+                "name": "彩色封套"
+            },
+            {
+                "name": "單色信封_中式"
+            },
+            {
+                "name": "單色信封_西式"
+            },
+            {
+                "name": "樂透袋"
+            },
+            {
+                "name": "红包袋"
+            },
+            {
+                "name": "燙金紅包袋"
+            },
+            {
+                "name": "現成信封"
+            }
+        ]
+    },
+    {
+        "category": "手提袋",
+        "products": [
+            {
+                "name": "紙提袋"
+            },
+            {
+                "name": "厚紙紙提袋"
+            }
+        ]
+    },
+    {
+        "category": "資料夾",
+        "products": [
+            {
+                "name": "A4資料夾"
+            },
+            {
+                "name": "小卡夾"
+            },
+            {
+                "name": "小卡夾合版"
+            },
+            {
+                "name": "PP_U型夾"
+            },
+            {
+                "name": "PP_L型夾"
+            },
+            {
+                "name": "口罩保護夾"
+            },
+            {
+                "name": "口罩保護夾_數印"
+            }
+        ]
+    },
+    {
+        "category": "卡牌、桌遊",
+        "products": [
+            {
+                "name": "撲克牌_750數位"
+            },
+            {
+                "name": "撲克牌_開版"
+            },
+            {
+                "name": "魔術卡"
+            }
+        ]
+    },
+    {
+        "category": "明信片",
+        "products": [
+            {
+                "name": "明信片"
+            }
+        ]
+    },
+    {
+        "category": "墊板",
+        "products": [
+            {
+                "name": "墊板"
+            }
+        ]
+    },
+    {
+        "category": "邀卡請帖",
+        "products": [
+            {
+                "name": "邀請卡"
+            },
+            {
+                "name": "喜帖邀卡"
+            },
+            {
+                "name": "公版雷雕喜帖"
+            },
+            {
+                "name": "現成傳統喜帖"
+            },
+            {
+                "name": "現成傳統雷雕喜帖"
+            },
+            {
+                "name": "摺疊套封"
+            }
+        ]
+    },
+    {
+        "category": "扇子",
+        "products": [
+            {
+                "name": "小扇子"
+            },
+            {
+                "name": "環保扇"
+            },
+            {
+                "name": "三角扇子"
+            },
+            {
+                "name": "環保摺疊扇"
+            },
+            {
+                "name": "摺疊拍拍扇"
+            },
+            {
+                "name": "隨身扇"
+            },
+            {
+                "name": "隨身扇_數印"
+            },
+            {
+                "name": "日本扇"
+            },
+            {
+                "name": "日本扇_數印"
+            },
+            {
+                "name": "威力扇"
+            },
+            {
+                "name": "威力扇_數印"
+            },
+            {
+                "name": "迷你扇"
+            },
+            {
+                "name": "迷你扇_數印"
+            }
+        ]
+    },
+    {
+        "category": "年月曆系列",
+        "products": [
+            {
+                "name": "PP桌曆"
+            },
+            {
+                "name": "PP桌曆_數印"
+            },
+            {
+                "name": "月曆卡座"
+            },
+            {
+                "name": "立式桌曆"
+            },
+            {
+                "name": "三角桌曆"
+            },
+            {
+                "name": "三角桌曆_數印"
+            },
+            {
+                "name": "掛曆"
+            },
+            {
+                "name": "掛曆_數印"
+            },
+            {
+                "name": "木座桌曆_數印"
+            }
+        ]
+    },
+    {
+        "category": "便條紙",
+        "products": [
+            {
+                "name": "膠裝便條紙"
+            },
+            {
+                "name": "單張式便條紙"
+            },
+            {
+                "name": "特價膠裝便條紙"
+            },
+            {
+                "name": "便利貼(NEW)"
+            }
+        ]
+    },
+    {
+        "category": "廣告商品",
+        "products": [
+            {
+                "name": "名片卡座"
+            },
+            {
+                "name": "便條紙卡座"
+            },
+            {
+                "name": "廣告筆筒"
+            },
+            {
+                "name": "神奇面紙盒"
+            },
+            {
+                "name": "加油棒"
+            }
+        ]
+    },
+    {
+        "category": "書籍型錄",
+        "products": [
+            {
+                "name": "騎馬釘"
+            },
+            {
+                "name": "膠裝"
+            },
+            {
+                "name": "線膠裝"
+            },
+            {
+                "name": "精裝（線膠）"
+            },
+            {
+                "name": "精裝（膠裝）"
+            }
+        ]
+    },
+    {
+        "category": "聯單、票券",
+        "products": [
+            {
+                "name": "彩色聯單"
+            },
+            {
+                "name": "單色點菜單"
+            },
+            {
+                "name": "單色聯單"
+            },
+            {
+                "name": "二聯單、三聯單、四聯單"
+            }
+        ]
+    },
+    {
+        "category": "彩噴商品",
+        "products": [
+            {
+                "name": "塑料拼圖"
+            },
+            {
+                "name": "紙拼圖"
+            },
+            {
+                "name": "陶瓷吸水杯墊"
+            },
+            {
+                "name": "造型磁鐵"
+            },
+            {
+                "name": "無框畫"
+            },
+            {
+                "name": "識別證"
+            },
+            {
+                "name": "平板彩噴"
+            },
+            {
+                "name": "彩噴代工_自備料"
+            },
+            {
+                "name": "大圖輸出系列"
+            }
+        ]
+    },
+    {
+        "category": "寫真書",
+        "products": [
+            {
+                "name": "精裝線膠裝"
+            },
+            {
+                "name": "精裝膠裝"
+            },
+            {
+                "name": "精裝蝴蝶書_內頁250P"
+            },
+            {
+                "name": "平裝蝴蝶書"
+            },
+            {
+                "name": "厚版平裝蝴蝶書（故事書）"
+            },
+            {
+                "name": "線圈相本"
+            }
+        ]
+    },
+    {
+        "category": "筆記本",
+        "products": [
+            {
+                "name": "騎馬釘筆記本"
+            },
+            {
+                "name": "膠裝筆記本"
+            },
+            {
+                "name": "線膠裝筆記本"
+            },
+            {
+                "name": "線圈筆記本"
+            },
+            {
+                "name": "精裝線圈筆記本"
+            },
+            {
+                "name": "灰紙板線圈筆記本"
+            }
+        ]
+    },
+    {
+        "category": "餐飲用品",
+        "products": [
+            {
+                "name": "摺頁菜單"
+            },
+            {
+                "name": "抽取式皮革菜單"
+            },
+            {
+                "name": "抽取式菜單內頁+加印"
+            },
+            {
+                "name": "仿皮革蝴蝶書精裝菜單"
+            },
+            {
+                "name": "蝴蝶書平裝菜單"
+            },
+            {
+                "name": "厚板單張精裝菜單"
+            }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+{
+    "id": "p01",
+    "name": "海報合版",
+    "category": "03.海報合版",
+    "introduction": "適用於產品DM、點餐單、餐墊紙、信紙等廣告海報以及企業行政文書往來文件等等。",
+    "image": [
+        "/Image/product/productImage/p0101.jpg",
+        "/Image/product/productImage/p0102.jpg",
+        "/Image/product/productImage/p0103.jpg"
+    ],
+    "releaseDate": "星期一至星期五",
+    "submission": "晚上08:00",
+    "shipping": {
+        "time": "1～2 個工作日",
+        "note": "合成卡、美術紙類視油墨乾燥情況出貨。"
+    },
+    "paper": [
+        {
+            "id": "t4pSl",
+            "option": [
+                {"id":"t4pSl","w":["100p","150p","190p"]}
+            ]
+        },
+        {
+            "id": "mMJxC",
+            "option": [
+                {"id":"mMJxC","w":["150p","190p"]}
+            ]
+        },
+        {
+            "id": "TGyg6",
+            "option": [
+                {"id":"TGyg6","w":["80p","100p"]}
+            ]
+        }
+    ],
+    "printing-process": [],
+    "introButton": [
+        {
+            "id": "product-infor",
+            "name": "產品資訊"
+        },
+        {
+            "id": "size-spec",
+            "name": "尺寸規格"
+        },
+        {
+            "id": "paper-texture",
+            "name": "紙張材質"
+        },
+        {
+            "id": "print-finishing-services",
+            "name": "印後加工"
+        },
+        {
+            "id": "printing-rules",
+            "name": "委印須知"
+        },
+        {
+            "id": "printing-guidelines",
+            "name": "製稿須知"
+        }
+    ]
+}

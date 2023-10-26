@@ -1,0 +1,34 @@
+//Utils
+@import 'utils/variables';
+//Base
+@import 'base/basic';
+@import 'base/text';
+@import 'base/animate';
+@import 'base/noProductPage';
+//Theme
+//Pages
+@import 'pages/index';
+@import 'pages/allProduct';
+@import 'Pages/news';
+@import 'Pages/company';
+@import 'Pages/products';
+@import 'Pages/faq';
+@import 'Pages/download';
+@import 'Pages/contact';
+//Components
+@import 'components/carousel';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/location';
+@import 'components/titleBanner';
+@import 'components/recommand';
+@import 'components/backtotop';
+@import 'components/orderSOP';
+@import 'components/downloadButton';
+@import 'components/signinup';
+@import 'components/loading';
+//Layout
+@import 'layout/rwd';
+//Vendors
+@import 'vendors/Bootstrap.min';
+//Vendors-extensions
