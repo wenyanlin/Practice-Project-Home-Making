@@ -22,8 +22,7 @@
         <div class="title-banner"></div>
         <div class="location" v-if="productData">
             <div class="inner"><a href="/">首頁</a><span>/</span><a
-                    href="/ProductCategory.html">產品總覽</a><span>/</span><span
-                    class="targetLocation">{{productData.name}}</span>
+                    href="/ProductCategory.html">產品總覽</a><span>/</span><span class="targetLocation">{{productData.name}}</span>
             </div>
         </div>
         <div class="product">
@@ -100,8 +99,7 @@
             <div class="title-banner"></div>
             <div class="location">
                 <div class="inner"><a href="/">首頁</a><span>/</span><a
-                        href="/ProductCategory.html">產品總覽</a><span>/</span><span
-                        class="targetLocation">{{product_data.name}}</span>
+                        href="/ProductCategory.html">產品總覽</a><span>/</span><span class="targetLocation">{{product_data.name}}</span>
                 </div>
             </div>
             <div class="product" id="product">
@@ -235,7 +233,8 @@
                     </ul>
                     <div class="appendScript"></div>
                 </div>
-                <ul class="product_description_content">
+                <ul class="product_description_content" v-html="loadedHTML">
+
                 </ul>
             </div>
         </div>
@@ -249,7 +248,7 @@
         integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"
         defer></script>
     <!-- vue.js -->
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js" defer></script>
+    <script src="/libs/vue.js" defer></script>
     <!-- header.js -->
     <script type="text/javascript" src="/Js/components/header.js" defer></script>
     <!-- Product.js -->

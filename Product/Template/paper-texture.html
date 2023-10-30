@@ -3,6 +3,7 @@
         v-for="(paper, index) in productData.paper" :key="paper.id" :paper_index="index">
     </paper>
 </li>
+
 <template id="paper-texture-template">
     <div class="paper-texture_item_outer">
         <a class="paper-texture_item" @click="isPopup($event)">

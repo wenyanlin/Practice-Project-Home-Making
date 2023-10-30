@@ -16,49 +16,37 @@
     },
     "paper": [
         {
-            "id":"XGpll",
-            "option":[
-                {"id":"XGpll", "w":["220p"]}
-            ]
-        },
-        {
-            "id":"DTRsL",
-            "option":[
-                {"id":"DTRsL", "w":["220p","270p"]}
-            ]
-        },
-        {
-            "id":"qwguO",
-            "option":[
-                {"id":"qwguO", "w":["240p"]}
-            ]
-        },
-        {
             "id": "qIq4Z",
             "option": [
-                {"id":"qIq4Z","w":["250p"]},
-                {"id":"En6Hh","w":["250p"]},
-                {"id":"EjgFa","w":["250p"]},
-                {"id":"48yOD","w":["250p"]},
-                {"id":"hjlIW","w":["250p"]}
+                {"id":"qIq4Z","w":["220p"]},
+                {"id":"En6Hh","w":["220p"]},
+                {"id":"EjgFa","w":["220p"]},
+                {"id":"48yOD","w":["220p"]},
+                {"id":"hjlIW","w":["220p"]}
             ]
         },
         {
-            "id":"AjzMY",
-            "option":[
-                {"id":"AjzMY", "w":["250p"]}
+            "id": "XGpll",
+            "option": [
+                {"id":"XGpll","w":["220p"]}
             ]
         },
         {
-            "id":"NqA00",
-            "option":[
-                {"id":"NqA00", "w":["262p"]}
+            "id": "DTRsL",
+            "option": [
+                {"id":"DTRsL","w":["220p"]}
             ]
         },
         {
-            "id":"WCOSg",
-            "option":[
-                {"id":"WCOSg", "w":["290p"]}
+            "id": "KMelY",
+            "option": [
+                {"id":"KMelY","w":["220p"]}
+            ]
+        },
+        {
+            "id": "AjzMY",
+            "option": [
+                {"id":"AjzMY","w":["250p"]}
             ]
         }
 

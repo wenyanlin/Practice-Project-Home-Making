@@ -29,53 +29,36 @@ function load_productIntro() {
         props: ["product_data", "product_path"],
         data() {
             return {
-                loadedHTMLCache: {},
+                loadedHTML: null,
                 currentButtonIndex: 0
             }
         },
         methods: {
             loadHTMLContent(id, index) {
-
-                if (this.loadedHTMLCache[index]) {
-                    this.updateCurrentButton(index);
-                    setTimeout(() => {
-                        if (id === "print-finishing-services") {
-                            initPrintFinishingServices();
-                        }
-                        else if (id === "paper-texture") {
-                            initPaperTexture();
-                        }
-                    }, 10);
-                    return;
+                if (id === "paper-texture" || id === "print-finishing-services") {
+                    fetch(`/Product/Template/${id}.html`)
+                        .then(response => response.text())
+                        .then(html => {
+                            this.loadedHTML = html;
+                            this.updateCurrentButton(index);
+                        })
+                        .then(() => {
+                            $('.appendScript').append($('<script>').attr('src', `/Js/components/${id}.js`));
+                        })
+                        .catch(error => {
+                            console.error("Error loading HTML:", error);
+                        });
                 }
                 else {
-                    if (id === "paper-texture" || id === "print-finishing-services") {
-                        fetch(`/Product/Template/${id}.html`)
-                            .then(response => response.text())
-                            .then(html => {
-                                $('.product_description_content').append(html);
-                                this.loadedHTMLCache[index] = html;
-                                this.updateCurrentButton(index);
-                            })
-                            .then(() => {
-                                $('.appendScript').append($('<script>').attr('src', `/Js/components/${id}.js`));
-                            })
-                            .catch(error => {
-                                console.error("Error loading HTML:", error);
-                            });
-                    }
-                    else {
-                        fetch(`${this.product_path}${id}.html`)
-                            .then(response => response.text())
-                            .then(html => {
-                                $('.product_description_content').append(html);
-                                this.loadedHTMLCache[index] = html;
-                                this.updateCurrentButton(index);
-                            })
-                            .catch(error => {
-                                console.error("Error loading HTML:", error);
-                            });
-                    }
+                    fetch(`${this.product_path}${id}.html`)
+                        .then(response => response.text())
+                        .then(html => {
+                            this.loadedHTML = html;
+                            this.updateCurrentButton(index);
+                        })
+                        .catch(error => {
+                            console.error("Error loading HTML:", error);
+                        });
                 }
             },
             updateCurrentButton(index) {

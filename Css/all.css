@@ -1284,14 +1284,12 @@ a:active {
   margin: 10px 0 50px;
   padding: 50px;
   background-color: white;
-  border-radius: 15px;
+  border-radius: 20px;
   transition: all 0.3s ease;
   min-height: 280px;
 }
-.main .product_description_content_list {
-  display: none;
-}
 .main .product_description_content .product-information {
+  display: flex;
   flex-wrap: wrap;
 }
 .main .product_description_content .product-information_item {
@@ -1323,11 +1321,13 @@ a:active {
   color: #7a7a7a;
 }
 .main .product_description_content .size-specifications {
+  display: flex;
   justify-content: center;
 }
 .main .product_description_content .paper-texture,
 .main .product_description_content .print-finishing-services {
   width: 100%;
+  display: flex;
   flex-wrap: wrap;
   gap: 20px;
   position: relative;
@@ -1527,32 +1527,12 @@ a:active {
 }
 .main .product_description_content .paper-texture_item_popup_information-guidelines,
 .main .product_description_content .print-finishing-services_item_popup_information-guidelines {
-  max-height: 30vw;
-  overflow-y: auto;
-  overscroll-behavior: contain;
-  -ms-scroll-chaining: contain;
   margin: 20px 0 0;
-  padding: 20px 0;
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 10px;
   text-align: left;
-  border-top: 1px #e8e8e8 solid;
-  border-bottom: 1px #e8e8e8 solid;
-}
-.main .product_description_content .paper-texture_item_popup_information-guidelines::-webkit-scrollbar,
-.main .product_description_content .print-finishing-services_item_popup_information-guidelines::-webkit-scrollbar {
-  width: 5px;
-}
-.main .product_description_content .paper-texture_item_popup_information-guidelines::-webkit-scrollbar-track-piece,
-.main .product_description_content .print-finishing-services_item_popup_information-guidelines::-webkit-scrollbar-track-piece {
-  background: transparent;
-}
-.main .product_description_content .paper-texture_item_popup_information-guidelines::-webkit-scrollbar-thumb,
-.main .product_description_content .print-finishing-services_item_popup_information-guidelines::-webkit-scrollbar-thumb {
-  background-color: #e8e8e8;
-  border-radius: 2.5px;
 }
 .main .product_description_content .paper-texture_item_popup_information-guidelines img,
 .main .product_description_content .print-finishing-services_item_popup_information-guidelines img {
@@ -1570,11 +1550,6 @@ a:active {
   height: 1px;
   background-color: #e8e8e8;
   margin: 50px 0 20px;
-}
-.main .product_description_content .paper-texture_item_popup_information-guidelines p,
-.main .product_description_content .print-finishing-services_item_popup_information-guidelines p {
-  width: 60%;
-  text-indent: 2em;
 }
 .main .product_description_content .paper-texture .active,
 .main .product_description_content .print-finishing-services .active {
@@ -3227,7 +3202,7 @@ header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item .dropdown
 }
 
 #loading {
-  width: 100%;
+  width: 100vw;
   height: 100%;
   position: fixed;
   top: 0;
@@ -3280,36 +3255,6 @@ header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item .dropdown
   }
 }
 
-#loading-part {
-  width: 100%;
-  height: 100%;
-  z-index: 999;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #f7f3ee;
-  visibility: visible;
-  opacity: 1;
-}
-#loading-part .loader {
-  width: 48px;
-  height: 48px;
-  display: inline-block;
-  position: relative;
-  color: #FFF;
-  border: 1px solid;
-  box-sizing: border-box;
-  animation: fill 2s linear infinite alternate;
-}
-
-@keyframes fill {
-  0% {
-    box-shadow: 0 0 inset;
-  }
-  100% {
-    box-shadow: 0 -48px inset;
-  }
-}
 @media (max-width: 1347px) {
   .topbar,
   .banner,

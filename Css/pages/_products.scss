@@ -229,16 +229,12 @@
                 margin: 10px 0 50px;
                 padding: 50px;
                 background-color: $main-bg-color;
-                border-radius: 15px;
+                border-radius: 20px;
                 transition: $quick-transition;
                 min-height: 280px;
 
-                &_list{
-                    display: none;
-                }
-
                 .product-information {
-                    //display: flex;
+                    display: flex;
                     flex-wrap: wrap;
 
                     &_item {
@@ -278,14 +274,14 @@
                 }
 
                 .size-specifications {
-                    //display: flex;
+                    display: flex;
                     justify-content: center;
                 }
 
                 .paper-texture,
                 .print-finishing-services {
                     width: 100%;
-                    //display: flex;
+                    display: flex;
                     flex-wrap: wrap;
                     gap: 20px;
                     position: relative;
@@ -467,7 +463,6 @@
                         }
 
                         &_information {
-
                             table {
                                 min-width: 5px;
                                 text-align: left;
@@ -480,35 +475,12 @@
                             }
 
                             &-guidelines {
-                                max-height: 30vw;
-                                overflow-y: auto;
-                                overscroll-behavior: contain;
-                                -ms-scroll-chaining: contain;
-
                                 margin: 20px 0 0;
-                                padding: 20px 0;
                                 width: 100%;
                                 display: flex;
                                 flex-direction: column;
                                 gap: 10px;
                                 text-align: left;
-
-                                border-top: 1px $other-color solid;
-                                border-bottom: 1px $other-color solid;
-
-                                &::-webkit-scrollbar {
-                                    width: 5px;
-                                }
-
-                                &::-webkit-scrollbar-track-piece {
-                                    background: transparent;
-                                }
-
-                                &::-webkit-scrollbar-thumb {
-                                    background-color: $other-color;
-                                    border-radius: 2.5px;
-                                }
-
 
                                 img {
                                     clear: right;
@@ -522,16 +494,11 @@
                                     }
                                 }
 
-                                .divider {
+                                .divider{
                                     width: 100%;
                                     height: 1px;
                                     background-color: $other-color;
                                     margin: 50px 0 20px;
-                                }
-
-                                p {
-                                    width: 60%;
-                                    text-indent: 2em;
                                 }
                             }
                         }
