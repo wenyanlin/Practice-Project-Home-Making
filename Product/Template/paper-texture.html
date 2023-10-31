@@ -1,4 +1,4 @@
-<li class="product_description_content_list paper-texture fade-in-fwd" id="paper-texture" v-if="productData && paperData" v-once>
+<li class="product_description_content_list paper-texture" id="paper-texture" v-if="productData && paperData" v-once>
     <paper :paper_data="getPaperDataById(paper.id)" :paper_option="paper.option"
         v-for="(paper, index) in productData.paper" :key="paper.id" :paper_index="index">
     </paper>

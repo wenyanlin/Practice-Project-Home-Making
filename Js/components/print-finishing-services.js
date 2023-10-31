@@ -61,7 +61,7 @@ Vue.component("process", {
             return option.introduction;
         },
         getOptionGuidelines(id) {
-            console.log(id);
+            //console.log(id);
             const self=this;
             $.ajax({
                 url: `/faq/printing-guide/print-finishing-guidelines/${id}.html`,
@@ -76,7 +76,7 @@ Vue.component("process", {
         }
     },
     mounted: function () {
-        this.getOptionGuidelines(this.process_option[0]);
+        //this.getOptionGuidelines(this.process_option[0]);
     }
 });
 

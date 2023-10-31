@@ -86,7 +86,7 @@ function search() {
     if (filter == "" || filter == undifined) {
       searchBar_listContainer.css('display', 'none');
     }
-    console.log('搜尋框成功');
+    //console.log('搜尋框成功');
     resolve();
   }).catch(() => {
     console.log('搜尋框失敗');
@@ -138,7 +138,7 @@ function searchBar_switch() {
         searchBar();
       }
     });
-    console.log('按鈕切換成功');
+    //console.log('按鈕切換成功');
     resolve();
   }).catch(() => {
     console.log('按鈕切換失敗');
@@ -273,7 +273,7 @@ function loadVar() {
     searchBtn = $('#search-button');
     searchInput = $('#search-input');
     searchBtn_i = $('#search-button i');
-    console.log('變數載入成功');
+    //console.log('變數載入成功');
     resolve();
   }).catch(() => {
     console.log('變數載入失敗');
@@ -444,10 +444,14 @@ $('#header').load("/Menu/Header.html", function () {
     resizeTimeout2 = setTimeout(footerCollapse, 300);
   });
   //searchBar();
+  
 });
 
-$(window).on('load', function () {
-  setTimeout(()=>{
-    $("#loading").fadeOut("slow");
-  },10);
+$(document).ready(function () {
+$("#loading").fadeOut("slow");
 });
+// $(window).on('load', function() {
+//   //setTimeout(()=>{
+//     $("#loading").fadeOut("slow");
+//   //},1);
+// });

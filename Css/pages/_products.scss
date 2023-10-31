@@ -307,7 +307,7 @@
                             background-color: $other-color;
                             border-radius: 10px 10px 0 0;
                             transition: $quick-transition;
-                            background-image: url('/Image/product/sample.jpg');
+                            //background-image: url('/Image/product/sample.jpg');
                             background-size: cover;
                             background-position: center center;
                         }
@@ -369,7 +369,7 @@
                     &_item:hover {
                         cursor: pointer;
                         text-decoration: none;
-                        transform: translateY(-0.5rem) scale(1.0125);
+                        transform: translateY(-0.5rem);
                         box-shadow: 0px 15px 30px rgba(224, 214, 214, 0.4);
 
                         .paper-texture_item_image,

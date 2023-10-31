@@ -1,4 +1,4 @@
-<li class="product_description_content_list print-finishing-services fade-in-fwd" id="print-finishing-services" v-if="productData && processData">
+<li class="product_description_content_list print-finishing-services" id="print-finishing-services" v-if="productData && processData">
     <process v-for="(item, index) in productData.printingProcess" :key="item.id" :process_data="getProcessDataById(item.id)" 
     :process_option="item.option"
     :process_index="index"></process>
