@@ -7,7 +7,7 @@
 <template id="paper-texture-template">
     <div class="paper-texture_item_outer">
         <a class="paper-texture_item" @click="isPopup($event)">
-            <div class="paper-texture_item_image"></div>
+            <div class="paper-texture_item_image"><img :src="paper_data.image" :alt="paper_data.name"></div>
             <div class="paper-texture_item_content">
                 <h5 class="paper-texture_item_content-title">{{ paper_data.name }}</h5>
                 <div class="paper-texture_item_content-content">
@@ -32,37 +32,40 @@
                 <h2 class="paper-texture_item_popup_title">{{ paper_data.name }}</h2>
                 <div class="paper-texture_item_popup_subTitle">{{ paper_data.introduction }}</div>
                 <div class="paper-texture_item_popup_information">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>紙張種類</th>
-                                <th>適用基重</th>
-                                <th>紙張厚度</th>
-                                <th>備註</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <template v-for="(item, index) in paper_option">
+                    <section>
+                        <table>
+                            <thead>
                                 <tr>
-                                    <td>{{ paper_data.name + ' ' + getOptionName(allOptions[index]) }}</td>
-                                    <td>{{ item.w[0] }}</td>
-                                    <td>{{ getOptionQuality(allOptions[index], item.w[0]) }}</td>
-                                    <td>{{ getOptionIntro(allOptions[index]) }}</td>
+                                    <th>紙張種類</th>
+                                    <th>適用基重</th>
+                                    <th>紙張厚度</th>
+                                    <th>備註</th>
                                 </tr>
-                                <tr v-for="(subItem, subIndex) in item.w" :key="subIndex" v-if="subIndex!=0">
-                                    <td></td>
-                                    <td>{{ subItem }}</td>
-                                    <td>{{ getOptionQuality(allOptions[index], subItem) }}</td>
-                                    <td></td>
-                                </tr>
-                            </template>
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                <template v-for="(item, index) in paper_option">
+                                    <tr>
+                                        <td>{{ paper_data.name + ' ' + getOptionName(allOptions[index]) }}</td>
+                                        <td>{{ item.w[0] }}</td>
+                                        <td>{{ getOptionQuality(allOptions[index], item.w[0]) }}</td>
+                                        <td>{{ getOptionIntro(allOptions[index]) }}</td>
+                                    </tr>
+                                    <tr v-for="(subItem, subIndex) in item.w" :key="subIndex" v-if="subIndex!=0">
+                                        <td></td>
+                                        <td>{{ subItem }}</td>
+                                        <td>{{ getOptionQuality(allOptions[index], subItem) }}</td>
+                                        <td></td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+                        <div class="paper-texture_item_popup_information_img"><img :src="paper_data.image" :alt="paper_data.name"></div>
+                    </section>
                 </div>
             </div>
-            <button class="paper-texture_item_popup_back" @click="noPopup($event)">
+            <!-- <button class="paper-texture_item_popup_back" @click="noPopup($event)">
                 <i class="fa-solid fa-xmark" style="color: #dab982;"></i>
-            </button>
+            </button> -->
         </div>
     </div>
 </template>

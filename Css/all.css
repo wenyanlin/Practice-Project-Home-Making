@@ -1355,8 +1355,15 @@ a:active {
   background-color: #e8e8e8;
   border-radius: 10px 10px 0 0;
   transition: all 0.3s ease;
-  background-size: cover;
-  background-position: center center;
+}
+.main .product_description_content .paper-texture_item_image img,
+.main .product_description_content .print-finishing-services_item_image img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center center;
+     object-position: center center;
 }
 .main .product_description_content .paper-texture_item_content,
 .main .product_description_content .print-finishing-services_item_content {
@@ -1485,17 +1492,18 @@ a:active {
 }
 .main .product_description_content .paper-texture_item_popup_inner,
 .main .product_description_content .print-finishing-services_item_popup_inner {
-  padding: 50px;
+  padding: 20px 30px;
 }
 .main .product_description_content .paper-texture_item_popup_title,
 .main .product_description_content .print-finishing-services_item_popup_title {
   text-align: left;
-  margin: 0;
+  margin: 0 0 0 2px;
 }
 .main .product_description_content .paper-texture_item_popup_subTitle,
 .main .product_description_content .print-finishing-services_item_popup_subTitle {
   text-align: left;
   color: #999999;
+  margin: 0 0 0 2px;
 }
 .main .product_description_content .paper-texture_item_popup_back,
 .main .product_description_content .print-finishing-services_item_popup_back {
@@ -1503,10 +1511,11 @@ a:active {
   top: 15px;
   right: 15px;
   transition: all 0.3s ease;
+  padding: 0;
 }
 .main .product_description_content .paper-texture_item_popup_back i,
 .main .product_description_content .print-finishing-services_item_popup_back i {
-  font-size: 30pt;
+  font-size: 20pt;
 }
 .main .product_description_content .paper-texture_item_popup_back:hover,
 .main .product_description_content .print-finishing-services_item_popup_back:hover {
@@ -1515,14 +1524,38 @@ a:active {
   align-items: end;
   gap: 5px;
 }
+.main .product_description_content .paper-texture_item_popup_information section,
+.main .product_description_content .print-finishing-services_item_popup_information section {
+  display: flex;
+  gap: 30px;
+  align-items: start;
+  justify-content: space-between;
+}
 .main .product_description_content .paper-texture_item_popup_information table,
 .main .product_description_content .print-finishing-services_item_popup_information table {
-  min-width: 5px;
+  width: 710px;
+  table-layout: auto;
   text-align: left;
+  display: block;
 }
 .main .product_description_content .paper-texture_item_popup_information table tr th:first-child(),
 .main .product_description_content .print-finishing-services_item_popup_information table tr th:first-child() {
   width: 5vw;
+}
+.main .product_description_content .paper-texture_item_popup_information_img,
+.main .product_description_content .print-finishing-services_item_popup_information_img {
+  margin: 10px 0;
+  width: 390px;
+  height: 390px;
+  overflow: hidden;
+  border: 1px #e8e8e8 solid;
+}
+.main .product_description_content .paper-texture_item_popup_information_img img,
+.main .product_description_content .print-finishing-services_item_popup_information_img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .main .product_description_content .paper-texture_item_popup_information-guidelines,
 .main .product_description_content .print-finishing-services_item_popup_information-guidelines {
@@ -2356,7 +2389,6 @@ header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item {
 }
 header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item:first-child {
   margin: 0 30px 0 0;
-  cursor: pointer;
 }
 header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item .nav-link {
   font-weight: 500;
@@ -2438,6 +2470,7 @@ header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item .dropdown
   padding: 10px 20px 10px 40px;
   transition: all 0.3s ease;
   text-align: left;
+  cursor: pointer;
 }
 header .navbar .container-fluid .navbar-collapse .navbar-nav .nav-item .dropdown-menu_category li:hover {
   background-color: #f7f3ee;

@@ -2,7 +2,7 @@
     {
         "id": "ZqXRB",
         "name": "表面上光",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "上光主要作用是為了加強印刷品表面的耐磨度及增加美觀效果",
         "variants": [
             {
@@ -58,7 +58,7 @@
     {
         "id": "zR7bK",
         "name": "裁切",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -90,7 +90,7 @@
     {
         "id": "1Cocz",
         "name": "摺紙",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -218,7 +218,7 @@
     {
         "id": "A9BU5",
         "name": "壓摺線",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -232,7 +232,7 @@
     {
         "id": "QAUlI",
         "name": "壓撕線",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -246,7 +246,7 @@
     {
         "id": "mH4tS",
         "name": "割底紙",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -260,7 +260,7 @@
     {
         "id": "u9UOt",
         "name": "打圓孔",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
 "image2": "/Image/process/打圓孔01.svg",
         "introduction": "在所需區域打上圓孔，常用於各式吊牌及吊卡，亦可作為裝飾使用。",
         "variants": [
@@ -276,7 +276,7 @@
     {
         "id": "PFRW5",
         "name": "沖孔",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -290,7 +290,7 @@
     {
         "id": "rQDub",
         "name": "倒圓角",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -304,7 +304,7 @@
     {
         "id": "GTKuD",
         "name": "700PVC卡加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -372,7 +372,7 @@
     {
         "id": "l2Wtk",
         "name": "燙金",
-        "image": "",
+        "image": "/Image/process/燙金.png",
         "introduction": "",
         "variants": [
             {
@@ -386,7 +386,7 @@
     {
         "id": "NH2W1",
         "name": "壓凸",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -400,7 +400,7 @@
     {
         "id": "Uwmzr",
         "name": "軋型",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -432,7 +432,7 @@
     {
         "id": "4SF7z",
         "name": "沖模壓型",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -446,7 +446,7 @@
     {
         "id": "445Qg",
         "name": "信封加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -484,7 +484,7 @@
     {
         "id": "uMzTz",
         "name": "資料夾成型",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -534,7 +534,7 @@
     {
         "id": "9eoMe",
         "name": "手提袋加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -560,7 +560,7 @@
     {
         "id": "JAm20",
         "name": "扇子代工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -598,7 +598,7 @@
     {
         "id": "voq7x",
         "name": "流水號燙金",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -618,7 +618,7 @@
     {
         "id": "AJSzk",
         "name": "加印流水號、壓撕線",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -632,7 +632,7 @@
     {
         "id": "SELl8",
         "name": "裝訂",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -658,7 +658,7 @@
     {
         "id": "6na1e",
         "name": "製本加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -720,7 +720,7 @@
     {
         "id": "vi2hP",
         "name": "複寫聯單加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {
@@ -788,7 +788,7 @@
     {
         "id": "9Uebh",
         "name": "撲克牌加工",
-        "image": "",
+        "image": "/Image/paper/瑞典一級卡.jpg",
         "introduction": "",
         "variants": [
             {

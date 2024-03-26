@@ -26,7 +26,7 @@ function loadSearchData() {
     var productsData = [
       {
         "name": "彩色名片",
-        "url": "/Product/Products.html"
+        "url": "/Product/Products.html?product=ColorBusinessCard"
       },
       {
         "name": "Product 2",
@@ -444,11 +444,13 @@ $('#header').load("/Menu/Header.html", function () {
     resizeTimeout2 = setTimeout(footerCollapse, 300);
   });
   //searchBar();
-  
+
 });
 
 $(document).ready(function () {
-$("#loading").fadeOut("slow");
+  setTimeout(() => {
+    $("#loading").fadeOut("slow");
+  }, 5);
 });
 // $(window).on('load', function() {
 //   //setTimeout(()=>{

@@ -1,13 +1,14 @@
-<li class="product_description_content_list print-finishing-services" id="print-finishing-services" v-if="productData && processData">
-    <process v-for="(item, index) in productData.printingProcess" :key="item.id" :process_data="getProcessDataById(item.id)" 
-    :process_option="item.option"
-    :process_index="index"></process>
+<li class="product_description_content_list print-finishing-services" id="print-finishing-services"
+    v-if="productData && processData">
+    <process v-for="(item, index) in productData.printingProcess" :key="item.id"
+        :process_data="getProcessDataById(item.id)" :process_option="item.option" :process_index="index"></process>
 </li>
 
 <template id="print-finishing-services-template">
     <div class="print-finishing-services_item_outer" ref="printFinishingServicesOuter">
-        <a class="print-finishing-services_item"@click="isPopup($event)">
-            <div class="print-finishing-services_item_image"></div>
+        <a class="print-finishing-services_item" @click="isPopup($event)">
+            <div class="print-finishing-services_item_image"><img :src="process_data.image" :alt="process_data.name">
+            </div>
             <div class="print-finishing-services_item_content">
                 <h5 class="print-finishing-services_item_content-title">
                     {{ process_data.name }}</h5>
@@ -33,31 +34,35 @@
                 <h2 class="print-finishing-services_item_popup_title">{{ process_data.name }}</h2>
                 <div class="print-finishing-services_item_popup_subTitle">{{ process_data.introduction }}</div>
                 <div class="print-finishing-services_item_popup_information">
-<img :src="process_data.image2" :alt="process_data.name" v-if="process_data.image2">
-                    <table v-if="process_option.length > 1">
-                        <thead>
-                            <tr>
-                                <th>適用加工</th>
-                                <th>加工簡介</th>
-                                <th>備註</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <template v-for="(item, index) in process_option">
+                    <img :src="process_data.image2" :alt="process_data.name" v-if="process_data.image2">
+                    <section>
+                        <table v-if="process_option.length > 1">
+                            <thead>
                                 <tr>
-                                    <td>{{ getOptionName(index) }}</td>
-                                    <td>{{ getOptionIntro(index) }}</td>
+                                    <th>適用加工</th>
+                                    <th>加工簡介</th>
+                                    <th>備註</th>
                                 </tr>
-                            </template>
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody>
+                                <template v-for="(item, index) in process_option">
+                                    <tr>
+                                        <td>{{ getOptionName(index) }}</td>
+                                        <td>{{ getOptionIntro(index) }}</td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+                        <div class="print-finishing-services_item_popup_information_img"> <img :src="process_data.image" :alt="process_data.name"></div>
+                    </section>
+
                     <!-- <div class="print-finishing-services_item_popup_information-guidelines" v-html="guidelines"></div> -->
                     <!-- <div class="print-finishing-services_item_popup_information-price" v-html="price"></div> -->
                 </div>
             </div>
-            <button class="print-finishing-services_item_popup_back" @click="noPopup($event)">
+            <!-- <button class="print-finishing-services_item_popup_back" @click="noPopup($event)">
                 <i class="fa-solid fa-xmark" style="color: #dab982;"></i>
-            </button>
+            </button> -->
         </div>
     </div>
 </template>

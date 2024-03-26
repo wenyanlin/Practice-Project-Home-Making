@@ -307,9 +307,13 @@
                             background-color: $other-color;
                             border-radius: 10px 10px 0 0;
                             transition: $quick-transition;
-                            //background-image: url('/Image/product/sample.jpg');
-                            background-size: cover;
-                            background-position: center center;
+
+                            img {
+                                width: 100%;
+                                height: 100%;
+                                object-fit: cover;
+                                object-position: center center;
+                            }
                         }
 
                         &_content {
@@ -431,17 +435,18 @@
                         overflow: hidden;
 
                         &_inner {
-                            padding: 50px;
+                            padding: 20px 30px;
                         }
 
                         &_title {
                             text-align: left;
-                            margin: 0;
+                            margin: 0 0 0 2px;
                         }
 
                         &_subTitle {
                             text-align: left;
                             color: $remark-color;
+                            margin: 0 0 0 2px;
                         }
 
                         &_back {
@@ -449,9 +454,10 @@
                             top: 15px;
                             right: 15px;
                             transition: $quick-transition;
+                            padding: 0;
 
                             i {
-                                font-size: 30pt;
+                                font-size: 20pt;
                             }
 
                             &:hover {
@@ -463,14 +469,38 @@
                         }
 
                         &_information {
+
+                            section {
+                                display: flex;
+                                gap: 30px;
+                                align-items: start;
+                                justify-content: space-between;
+                            }
+
                             table {
-                                min-width: 5px;
+                                width: 710px;
+                                table-layout: auto;
                                 text-align: left;
+                                display: block;
 
                                 tr {
                                     th:first-child() {
                                         width: 5vw;
                                     }
+                                }
+                            }
+
+                            &_img {
+                                margin: 10px 0;
+                                width: 390px;
+                                height: 390px;
+                                overflow: hidden;
+                                border: 1px #e8e8e8 solid;
+
+                                img {
+                                    width: 100%;
+                                    height: 100%;
+                                    object-fit: cover;
                                 }
                             }
 
@@ -494,7 +524,7 @@
                                     }
                                 }
 
-                                .divider{
+                                .divider {
                                     width: 100%;
                                     height: 1px;
                                     background-color: $other-color;

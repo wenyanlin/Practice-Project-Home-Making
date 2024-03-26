@@ -2,7 +2,7 @@
   {
     "id": "slJuh",
     "name": "316不銹鋼",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -21,7 +21,7 @@
   {
     "id": "bp74c",
     "name": "Gildan棉質T恤",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -40,7 +40,7 @@
   {
     "id": "ruuyT",
     "name": "PC",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -70,7 +70,7 @@
   {
     "id": "2I9dz",
     "name": "PET透明貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -100,7 +100,7 @@
   {
     "id": "2BjvL",
     "name": "PP",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -146,7 +146,7 @@
   {
     "id": "0RKfC",
     "name": "PP瓦楞板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -177,7 +177,7 @@
   {
     "id": "aWA4S",
     "name": "PS板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -196,7 +196,7 @@
   {
     "id": "rmYDC",
     "name": "PVC砂面雷射貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -215,7 +215,7 @@
   {
     "id": "Dv2rk",
     "name": "PVC素面雷射貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -234,7 +234,7 @@
   {
     "id": "qIq4Z",
     "name": "瑞典一級卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "印刷表面略帶光澤，色彩亮麗，是坊間最常使用的高級印刷紙，簡稱「一級卡」。",
     "variants": [
       {
@@ -266,7 +266,7 @@
             "thickness": "42"
           }
         ],
-        "introduction": ""
+        "introduction": "-"
       },
       {
         "id": "pz9CN",
@@ -350,7 +350,7 @@
   {
     "id": "qIq4A",
     "name": "韓國一級卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "",
     "variants": [
       {
@@ -369,7 +369,7 @@
   {
     "id": "nSbvR",
     "name": "中空板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -392,7 +392,7 @@
   {
     "id": "MZEp5",
     "name": "亮藍慧星紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -411,7 +411,7 @@
   {
     "id": "GnscU",
     "name": "亮銀箔貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -430,7 +430,7 @@
   {
     "id": "Cryxl",
     "name": "卡紙類",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -449,7 +449,7 @@
   {
     "id": "aCzji",
     "name": "厚卡類",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -468,7 +468,7 @@
   {
     "id": "KMelY",
     "name": "合成卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -567,7 +567,7 @@
   {
     "id": "a7XmW",
     "name": "合成板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -590,7 +590,7 @@
   {
     "id": "It51w",
     "name": "合成貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -609,7 +609,7 @@
   {
     "id": "w1dGw",
     "name": "咖啡卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -628,7 +628,7 @@
   {
     "id": "pFPGS",
     "name": "咖啡色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -647,7 +647,7 @@
   {
     "id": "2q1Eo",
     "name": "單銅T",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -772,7 +772,7 @@
   {
     "id": "O3Bhg",
     "name": "單面鏡銅",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -791,7 +791,7 @@
   {
     "id": "YxU9f",
     "name": "四角防撞殼",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -810,7 +810,7 @@
   {
     "id": "Cc9iq",
     "name": "壓克力",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -841,7 +841,7 @@
   {
     "id": "qwguO",
     "name": "安格映畫紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -864,7 +864,7 @@
   {
     "id": "dlido",
     "name": "安格紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -883,7 +883,7 @@
   {
     "id": "XtfSR",
     "name": "帆布",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -902,7 +902,7 @@
   {
     "id": "kvhvQ",
     "name": "彩幻紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -921,7 +921,7 @@
   {
     "id": "WIQY3",
     "name": "彩珠紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -940,7 +940,7 @@
   {
     "id": "CGZuv",
     "name": "描圖紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -959,7 +959,7 @@
   {
     "id": "CGZuw",
     "name": "古銅金黃紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -978,7 +978,7 @@
   {
     "id": "CGZux",
     "name": "彩紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -997,7 +997,7 @@
   {
     "id": "CGZut",
     "name": "鳳尾花紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1016,7 +1016,7 @@
   {
     "id": "SGZZy",
     "name": "撲克牌紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1035,7 +1035,7 @@
   {
     "id": "PeZUZ",
     "name": "日本一級卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1208,7 +1208,7 @@
   {
     "id": "ooXTR",
     "name": "日本相紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1227,7 +1227,7 @@
   {
     "id": "ZKD7p",
     "name": "星幻紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1246,7 +1246,7 @@
   {
     "id": "Akmdv",
     "name": "星彩安格紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1265,7 +1265,7 @@
   {
     "id": "qAqLS",
     "name": "映畫紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1315,7 +1315,7 @@
   {
     "id": "0JIf0",
     "name": "晶綻紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1334,7 +1334,7 @@
   {
     "id": "wesHl",
     "name": "暗紅卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1353,7 +1353,7 @@
   {
     "id": "hVJKW",
     "name": "木紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1372,7 +1372,7 @@
   {
     "id": "vsuP6",
     "name": "杯墊",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1391,7 +1391,7 @@
   {
     "id": "bQAb3",
     "name": "松木密集板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1410,7 +1410,7 @@
   {
     "id": "XLjW4",
     "name": "柳葉紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1433,7 +1433,7 @@
   {
     "id": "Va1fD",
     "name": "棉絮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1452,7 +1452,7 @@
   {
     "id": "31nTI",
     "name": "標準PVC卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1471,7 +1471,7 @@
   {
     "id": "DNpHD",
     "name": "模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1490,7 +1490,7 @@
   {
     "id": "crPm5",
     "name": "模造貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1531,7 +1531,7 @@
   {
     "id": "rcPbW",
     "name": "橘色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1550,7 +1550,7 @@
   {
     "id": "omn2T",
     "name": "毯紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1573,7 +1573,7 @@
   {
     "id": "E9dql",
     "name": "水彩紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1592,7 +1592,7 @@
   {
     "id": "PKvcj",
     "name": "永采紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1615,7 +1615,7 @@
   {
     "id": "WTVaQ",
     "name": "油性PP相紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1634,7 +1634,7 @@
   {
     "id": "Eo7PF",
     "name": "油性PVC背膠",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1653,7 +1653,7 @@
   {
     "id": "mdBwr",
     "name": "油性全透PVC背膠",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1672,7 +1672,7 @@
   {
     "id": "hogL2",
     "name": "油畫布",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1691,7 +1691,7 @@
   {
     "id": "BTM1d",
     "name": "淡紫色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1710,7 +1710,7 @@
   {
     "id": "a7yoC",
     "name": "深藍色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1729,7 +1729,7 @@
   {
     "id": "iWEvL",
     "name": "淺綠模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1748,7 +1748,7 @@
   {
     "id": "vWucq",
     "name": "淺綠色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1767,7 +1767,7 @@
   {
     "id": "S5TIV",
     "name": "淺藍模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1786,7 +1786,7 @@
   {
     "id": "YClBb",
     "name": "淺黃模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1805,7 +1805,7 @@
   {
     "id": "zsYu2",
     "name": "紅色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1824,7 +1824,7 @@
   {
     "id": "zsYu1",
     "name": "灰色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1843,7 +1843,7 @@
   {
     "id": "KIhwA",
     "name": "灰銅",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1862,7 +1862,7 @@
   {
     "id": "AjzMY",
     "name": "炫光紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1915,7 +1915,7 @@
   {
     "id": "k2oCZ",
     "name": "牛津布",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1934,7 +1934,7 @@
   {
     "id": "ILN7Q",
     "name": "牛皮色棉絮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -1953,7 +1953,7 @@
   {
     "id": "vD53W",
     "name": "珠光貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2016,7 +2016,7 @@
   {
     "id": "t4Zxa",
     "name": "瓦楞紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2035,7 +2035,7 @@
   {
     "id": "OTTmk",
     "name": "畫刊紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2062,7 +2062,7 @@
   {
     "id": "5sJVI",
     "name": "發泡板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2093,7 +2093,7 @@
   {
     "id": "VvKfA",
     "name": "白亮PVC貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2112,7 +2112,7 @@
   {
     "id": "X5IBV",
     "name": "白模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2131,7 +2131,7 @@
   {
     "id": "LLd6v",
     "name": "白牛皮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2158,7 +2158,7 @@
   {
     "id": "NYCRE",
     "name": "白銅",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2177,7 +2177,7 @@
   {
     "id": "lHZ7i",
     "name": "直式瓦楞板D-BOARD",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2200,7 +2200,7 @@
   {
     "id": "UhFtW",
     "name": "科技纖維",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2219,7 +2219,7 @@
   {
     "id": "m2374",
     "name": "粉紅模造紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2238,7 +2238,7 @@
   {
     "id": "MiWWa",
     "name": "粗閃金卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2257,7 +2257,7 @@
   {
     "id": "WnUjH",
     "name": "粗閃銀卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2276,7 +2276,7 @@
   {
     "id": "lMhS3",
     "name": "紗蘿紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2295,7 +2295,7 @@
   {
     "id": "xIMIJ",
     "name": "細紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2349,7 +2349,7 @@
   {
     "id": "W56Uw",
     "name": "細閃金卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2368,7 +2368,7 @@
   {
     "id": "Xbi4C",
     "name": "細閃銀卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2387,7 +2387,7 @@
   {
     "id": "wNWqU",
     "name": "絲紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2406,7 +2406,7 @@
   {
     "id": "lOF9N",
     "name": "綠色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2425,7 +2425,7 @@
   {
     "id": "vEiIP",
     "name": "維儷紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2444,7 +2444,7 @@
   {
     "id": "hIV1w",
     "name": "美彩絲紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2463,7 +2463,7 @@
   {
     "id": "NqA00",
     "name": "美樂紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2482,7 +2482,7 @@
   {
     "id": "fcWVe",
     "name": "自備卡片",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2501,7 +2501,7 @@
   {
     "id": "Jb8Bu",
     "name": "自備材料",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2520,7 +2520,7 @@
   {
     "id": "XGpll",
     "name": "萊妮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2589,7 +2589,7 @@
   {
     "id": "RT4FW",
     "name": "薄紙類",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2608,7 +2608,7 @@
   {
     "id": "mNgm0",
     "name": "藍色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2627,7 +2627,7 @@
   {
     "id": "VMCrY",
     "name": "蜜桃絨",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2646,7 +2646,7 @@
   {
     "id": "cZ2jm",
     "name": "觸感紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2665,7 +2665,7 @@
   {
     "id": "DTRsL",
     "name": "象牙卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2719,7 +2719,7 @@
   {
     "id": "DTRsM",
     "name": "頂級象牙卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2742,7 +2742,7 @@
   {
     "id": "z7Ckf",
     "name": "豪卡板",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2769,7 +2769,7 @@
   {
     "id": "svvxK",
     "name": "赤牛皮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2823,7 +2823,7 @@
   {
     "id": "za2LP",
     "name": "赤牛皮貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2864,7 +2864,7 @@
   {
     "id": "HTj8t",
     "name": "軟性磁鐵",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2883,7 +2883,7 @@
   {
     "id": "azhk8",
     "name": "透明卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2902,7 +2902,7 @@
   {
     "id": "ohJEp",
     "name": "透明貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2925,7 +2925,7 @@
   {
     "id": "IJGfE",
     "name": "透明靜電貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -2944,7 +2944,7 @@
   {
     "id": "TGyg6",
     "name": "道林紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3027,7 +3027,7 @@
   {
     "id": "EIAgJ",
     "name": "采石紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3046,7 +3046,7 @@
   {
     "id": "fqlTT",
     "name": "金箔貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3065,7 +3065,7 @@
   {
     "id": "j1cVI",
     "name": "金色特多龍",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3084,7 +3084,7 @@
   {
     "id": "2wZW1",
     "name": "銀箔貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3103,7 +3103,7 @@
   {
     "id": "Gytb4",
     "name": "銀色特多龍",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3122,7 +3122,7 @@
   {
     "id": "1MVeX",
     "name": "銅版貼紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3334,7 +3334,7 @@
   {
     "id": "T2c8r",
     "name": "銅西卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3634,7 +3634,7 @@
   {
     "id": "8hDTr",
     "name": "鐵蓋",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3686,7 +3686,7 @@
   {
     "id": "WCOSg",
     "name": "雅紋映畫紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3709,7 +3709,7 @@
   {
     "id": "EA2Dk",
     "name": "雅風紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3732,7 +3732,7 @@
   {
     "id": "t4pSl",
     "name": "雙銅紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -3883,7 +3883,7 @@
   {
     "id": "mMJxC",
     "name": "雪銅紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4128,7 +4128,7 @@
   {
     "id": "JWfgl",
     "name": "雪面銅西卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4215,7 +4215,7 @@
   {
     "id": "4ySPQ",
     "name": "非碳複寫紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4234,7 +4234,7 @@
   {
     "id": "EZQyK",
     "name": "馬克杯",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4253,7 +4253,7 @@
   {
     "id": "pa5Ak",
     "name": "骨紋紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4302,7 +4302,7 @@
   {
     "id": "GIIrN",
     "name": "鮮紅卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4321,7 +4321,7 @@
   {
     "id": "MJuxi",
     "name": "黃牛皮紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4344,7 +4344,7 @@
   {
     "id": "HEckj",
     "name": "黃綠色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4363,7 +4363,7 @@
   {
     "id": "DYE46",
     "name": "黃色紙",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
@@ -4382,7 +4382,7 @@
   {
     "id": "8NJXH",
     "name": "黑卡",
-    "image": "/Image/paper/a1.jpg",
+    "image": "/Image/paper/瑞典一級卡.png",
     "introduction": "機哩渣啦機哩渣啦",
     "variants": [
       {
